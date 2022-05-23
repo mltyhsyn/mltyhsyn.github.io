@@ -358,7 +358,7 @@ ER TV
 https://waw1.artiyerelmedya.net/ertv/bant1/chunks.m3u8 
 
 YEŞİLYURT TV
-EXTINF:-1 tvg-id=" " tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fcc5ad94-9898-4cd1-9c2a-ad97d33aefe6.png" group-title= " ",Yeşilyurt TV
+#EXTINF:-1 tvg-id=" " tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fcc5ad94-9898-4cd1-9c2a-ad97d33aefe6.png" group-title= " ",Yeşilyurt TV
 http://yerelmedya.tv:1935/yesilyurttv/_definst_/bant1/chunklist_w1070867965.m3u8 
 
 
