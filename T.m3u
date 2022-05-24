@@ -80,9 +80,17 @@ ATV
 #EXTINF:-1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="  ",atv 
 https://trkvz-live.daioncdn.net/atv/atv.m3u8 
 
+ATV 
+#EXTINF:-1 tvg-id="ATVTurkiye.tr" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" grup-başlığı=" ",atv HD vavoo 1
+
+
 SHOW TV 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title=" ",Show 
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8 
+
+SHOW TV 
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title=" ",Show 
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8 
 
 SHOW TÜRK 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" group-title=" ",Show Türk 
@@ -99,6 +107,10 @@ https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
 FOX TV 
 #EXTINF:-1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title=" ",Fox 
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
+
+FOX TV
+#EXTINF:-1 tvg-id="FoxTurkiye.us" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" grup-başlığı=" ",Fox
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 
 KANAL D 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title=" ",Kanal D 
