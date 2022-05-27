@@ -33,6 +33,9 @@ TRT SPOR
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8 
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8 
 
+TRT SPOR YILDIZ 
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/06ce3106-3fdb-4703-bc19-51ace99098a4.png" group-title=" ",TRT SPOR YILDIZ 
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8 
 
 TRT TÜRK 
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title=" ",TRT TÜRK 
