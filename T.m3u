@@ -8,6 +8,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 TRT 2 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title=" ",TRT 2  
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8 
 
 
@@ -23,11 +24,13 @@ https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 
 TRT ÇOCUK 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png" group-title=" ",TRT ÇOCUK 
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8 
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
 
 TRT SPOR 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5bab51c5-0efb-49a8-9dc0-8f3fdd85eec8.png" group-title=" ",TRT SPOR 
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8 
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8 
 
 
