@@ -205,52 +205,71 @@ http://212.18.115.191:3549/play/a02n
 http://212.18.115.194:3549/play/a02w 
 #EXTINF:-1,Sky Cinema Comedy 2
 http://212.18.115.192:3549/play/a02w 
+#EXTINF:-1,Sky Cinema Comedy 3
+http://212.18.115.191:3549/play/a02w
 
 #EXTINF:-1,Sky Cinema Premieren 1
 http://212.18.115.194:3549/play/a02y 
 #EXTINF:-1,Sky Cinema Premieren 2
-http://212.18.115.192:3549/play/a02y
+http://212.18.115.192:3549/play/a02y 
+#EXTINF:-1,Sky Cinema Premieren 3
+http://212.18.115.191:3549/play/a02y 
 
 #EXTINF:-1,Sky Cinema Premieren +24 HD 1
 http://212.18.115.194:3549/play/a02x 
 #EXTINF:-1,Sky Cinema Premieren +24 HD 2
-http://212.18.115.192:3549/play/a02x
+http://212.18.115.192:3549/play/a02x 
+#EXTINF:-1,Sky Cinema Premieren +24 HD 3
+http://212.18.115.191:3549/play/a02x 
 
 #EXTINF:-1,Sky Cinema Special FHD 1
 http://212.18.115.194:3549/play/a02z 
 #EXTINF:-1,Sky Cinema Special FHD 2
 http://212.18.115.192:3549/play/a02z
+#EXTINF:-1,Sky Cinema Special FHD 3
+http://212.18.115.191:3549/play/a02z
 
 #EXTINF:-1,Sky Cinema Summerfeeling 1
 http://212.18.115.194:3549/play/a02t 
 #EXTINF:-1,Sky Cinema Summerfeeling 2
 http://212.18.115.192:3549/play/a02t 
+#EXTINF:-1,Sky Cinema Summerfeeling 3
+http://212.18.115.191:3549/play/a02t
 
 #EXTINF:-1,Sky Cinema Thriller FHD 1
 http://212.18.115.194:3549/play/a02v 
 #EXTINF:-1,Sky Cinema Thriller FHD 2
-http://212.18.115.192:3549/play/a02v
+http://212.18.115.192:3549/play/a02v 
+#EXTINF:-1,Sky Cinema Thriller FHD 3
+http://212.18.115.191:3549/play/a02v 
 
 #EXTINF:-1,Sky Documentaries FHD 1
 http://212.18.115.194:3549/play/a040 
 #EXTINF:-1,Sky Documentaries FHD 2
 http://212.18.115.192:3549/play/a040 
+#EXTINF:-1,Sky Documentaries FHD 3
+http://212.18.115.191:3549/play/a040
 
 #EXTINF:-1,Sky Krimi HD 1
 http://212.18.115.194:3549/play/a032 
 #EXTINF:-1,Sky Krimi HD 2
-http://212.18.115.192:3549/play/a032
+http://212.18.115.192:3549/play/a032 
+#EXTINF:-1,Sky Krimi HD 3
+http://212.18.115.191:3549/play/a032
 
 #EXTINF:-1,Sky Nature FHD 1
 http://212.18.115.194:3549/play/a041 
 #EXTINF:-1,Sky Nature FHD 2
-http://212.18.115.192:3549/play/a041
+http://212.18.115.192:3549/play/a041 
+#EXTINF:-1,Sky Nature FHD 3
+http://212.18.115.191:3549/play/a041 
 
 #EXTINF:-1,Sky Replay FHD 1
 http://212.18.115.194:3549/play/a033 
 #EXTINF:-1,Sky Replay FHD 2
 http://212.18.115.192:3549/play/a033 
-
+#EXTINF:-1,Sky Replay FHD 3
+http://212.18.115.191:3549/play/a033
 
 
 
