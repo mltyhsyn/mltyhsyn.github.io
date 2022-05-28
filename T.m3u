@@ -43,11 +43,8 @@ http://46.31.146.187:44300/play/a01k/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://46.31.146.187:44300/play/a02z/index.m3u8 
 
-#EXTINF:-1,A2 HD
-http://46.31.146.187:44300/play/a02x/index.m3u8 
-
-#EXTINF:-1,DISNEY CHANNEL
-http://46.31.146.187:44300/play/a02s/index.m3u8 
+#EXTINF:-1,KIDZ.-ANIMEZ
+http://46.31.146.187:44300/play/a030/index.m3u8 
 
 #EXTINF:-1,CNN TÜRK HD
 http://46.31.146.187:44300/play/a01l/index.m3u8 
@@ -58,6 +55,24 @@ http://46.31.146.187:44300/play/a01n/index.m3u8
 #EXTINF:-1,HALK TV HD
 http://46.31.146.187:44300/play/a00d/index.m3u8 
 
+#EXTINF:-1,KRT TV HD
+http://46.31.146.187:44300/play/a00u/index.m3u8 
+
+#EXTINF:-1,TELE 1
+http://46.31.146.187:44300/play/a02b/index.m3u8 
+
+#EXTINF:-1,NTV HD
+http://46.31.146.187:44300/play/a02l/index.m3u8 
+
+#EXTINF:-1,TV 100 HD
+http://46.31.146.187:44300/play/a00r/index.m3u8 
+
+#EXTINF:-1,TV5
+http://46.31.146.187:44300/play/a00s/index.m3u8 
+
+#EXTINF:-1,ULUSAL TV
+http://46.31.146.187:44300/play/a00c/index.m3u8 
+
 #EXTINF:-1,TV 8 INT
 http://46.31.146.187:44300/play/a02a/index.m3u8 
 
@@ -66,6 +81,18 @@ http://46.31.146.187:44300/play/a041/index.m3u8
 
 #EXTINF:-1,TV8 HD
 http://46.31.146.187:44300/play/a040/index.m3u8 
+
+#EXTINF:-1,FLASH TV HD
+http://46.31.146.187:44300/play/a049/index.m3u8 
+
+#EXTINF:-1,DIYANET TV HD
+http://46.31.146.187:44300/play/a02n/index.m3u8 
+
+#EXTINF:-1,MELTEM TV
+http://46.31.146.187:44300/play/a003/index.m3u8 
+
+#EXTINF:-1,MESAJ TV
+http://46.31.146.187:44300/play/a01g/index.m3u8 
 
 
 
