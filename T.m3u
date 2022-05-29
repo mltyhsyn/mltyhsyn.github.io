@@ -291,4 +291,9 @@ http://212.18.115.194:3549/play/a01q
 #EXTINF:-1,ORF III
 http://212.18.115.194:3549/play/a01r
 
+#EXTINF:-1,CINEMA 1
+http://185.49.27.130:8000/play/a0hv
+#EXTINF:-1,CINEMA 2
+http://185.49.27.130:8000/play/a0hw
+
 
