@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,Beate Uhse HD
-http://109.200.130.123:7029/play/a01f
+http://109.200.130.123:7029/play/a01f 
+#EXTINF:-1,Ftv
+http://212.18.115.177:3169/play/ftv/index.m3u8 
 #EXTINF:-1,RHD_xxx
 http://109.200.130.123:7032/play/353
 #EXTINF:-1,Vivid Red HD
@@ -35,6 +37,30 @@ http://87.250.63.18:8889/play/EroXXX
 http://87.250.63.18:8889/play/EvilAngel
 #EXTINF:-1,734. Bang U
 http://87.250.63.18:8889/play/BangU 
+
+#EXTINF:0,Русская ночь 18+
+http://46.181.193.122:81/udp/239.255.42.218:1234
+#EXTINF:0,O-la-la 18+
+http://46.181.193.122:81/udp/239.255.42.219:1234
+#EXTINF:0,Brazzers TV 18+
+http://46.181.193.122:81/udp/239.255.42.220:1234
+#EXTINF:0,PLAYBOY TV 18+
+http://46.181.193.122:81/udp/239.255.42.221:1234
+#EXTINF:0,Blue Hustler 18+
+http://46.181.193.122:81/udp/239.255.42.222:1234
+#EXTINF:0,Frenchlover 18+
+http://46.181.193.122:81/udp/239.255.42.223:1234
+#EXTINF:0,Barely Legal 18+
+http://46.181.193.122:81/udp/239.255.42.224:1234 
+
+#EXTINF:0,.RED
+http://46.181.193.122:81/udp/239.255.42.42:1234 
+
+#EXTINF:0,.BLACK
+http://46.181.193.122:81/udp/239.255.42.93:1234 
+#EXTINF:0,TV XXI
+http://46.181.193.122:81/udp/239.255.42.81:1234 
+
 
 
 
