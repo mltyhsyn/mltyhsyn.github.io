@@ -111,6 +111,10 @@ http://46.31.146.187:44300/play/a02p/index.m3u8
 
 #EXTINF:-1,13th Street HD
 http://212.18.115.194:3549/play/a037 
+#EXTINF:-1,kabel eins classics
+http://185.234.217.21:8006/play/a02d/index.m3u8 
+#EXTINF:-1,SAT.1 Gold Österreich
+http://185.234.217.21:8006/play/a029/index.m3u8 
 #EXTINF:-1,Boomerang
 http://212.18.115.194:3549/play/a066
 #EXTINF:-1,CNBC FHD
