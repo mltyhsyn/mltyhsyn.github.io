@@ -279,4 +279,16 @@ http://212.18.115.194:3549/play/a03f
 #EXTINF:-1,rbb Berlin FHD
 http://212.18.115.194:3549/play/a03g
 
+#EXTINF:-1,ATV 1
+http://212.18.115.194:3549/play/a01n
+#EXTINF:-1,ATV 2
+http://212.18.115.194:3549/play/a01o
+
+#EXTINF:-1,ORF 1
+http://212.18.115.194:3549/play/a01p
+#EXTINF:-1,ORF 2
+http://212.18.115.194:3549/play/a01q
+#EXTINF:-1,ORF III
+http://212.18.115.194:3549/play/a01r
+
 
