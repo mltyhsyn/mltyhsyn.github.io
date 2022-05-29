@@ -101,187 +101,182 @@ http://46.31.146.187:44300/play/a003/index.m3u8
 http://46.31.146.187:44300/play/a04j/index.m3u8 
  
 
-#EXTINF:-1,13th Street HD 1
+#EXTINF:-1,13th Street HD
 http://212.18.115.194:3549/play/a037 
-#EXTINF:-1,13th Street HD 2
-http://212.18.115.192:3549/play/a037 
-#EXTINF:-1,13th Street HD 3
-http://212.18.115.191:3549/play/a037
+#EXTINF:-1,Boomerang
+http://212.18.115.194:3549/play/a066
+#EXTINF:-1,CNBC FHD
+http://212.18.115.194:3549/play/a03h
+#EXTINF:-1,Cartoon Network
+http://212.18.115.194:3549/play/a065
+#EXTINF:-1,Das Erste
+http://212.18.115.194:3549/play/a001
+#EXTINF:-1,Das Erste FHD
+http://212.18.115.194:3549/play/a002
 
-#EXTINF:-1,Heimatkanal 1
-http://212.18.115.194:3549/play/a039  
-#EXTINF:-1,Heimatkanal 2
-http://212.18.115.192:3549/play/a039 
-#EXTINF:-1,Heimatkanal 3
-http://212.18.115.191:3549/play/a039
-
-#EXTINF:-1,ONE FHD 1
-http://212.18.115.194:3549/play/a01a 
-#EXTINF:-1,ONE FHD 2 
-http://212.18.115.192:3549/play/a01a
-#EXTINF:-1,ONE FHD 3
-http://212.18.115.191:3549/play/a01a 
-
-#EXTINF:-1,One ARD 1
-http://212.18.115.194:3549/play/a00m 
-#EXTINF:-1,One ARD 2
-http://212.18.115.192:3549/play/a00m 
-#EXTINF:-1,One ARD 3
-http://212.18.115.191:3549/play/a00m 
-
-
+#EXTINF:-1,Discovery Channel HD
+http://212.18.115.194:3549/play/a03u
+#EXTINF:-1,Disney Channel
+http://212.18.115.194:3549/play/a062
+#EXTINF:-1,Disney Channel FHD
+http://212.18.115.194:3549/play/a063 
+#EXTINF:-1,Fox HD
+http://212.18.115.194:3549/play/a01j
+#EXTINF:-1,Heimatkanal
+http://212.18.115.194:3549/play/a039
+#EXTINF:-1,History FHD
+http://212.18.115.194:3549/play/a03v
+#EXTINF:-1,Kabel Eins
+http://212.18.115.194:3549/play/a00i
+#EXTINF:-1,Kabel Eins FHD
+http://212.18.115.194:3549/play/a00j
+#EXTINF:-1,Kika
+http://212.18.115.194:3549/play/a05y
+#EXTINF:-1,Kika FHD
+http://212.18.115.194:3549/play/a05z
+#EXTINF:-1,Kinowelt TV
+http://212.18.115.194:3549/play/a03a
+#EXTINF:-1,N24 DOKU
+http://212.18.115.194:3549/play/a03r
 #EXTINF:-1,NITRO FHD
-http://212.18.115.192:3549/play/a016 
+http://212.18.115.194:3549/play/a016
+#EXTINF:-1,NTV
+http://212.18.115.194:3549/play/a03i
+#EXTINF:-1,NTV FHD
+http://212.18.115.194:3549/play/a03j
+#EXTINF:-1,Nat Geo Wild HD
+http://212.18.115.194:3549/play/a03y
+#EXTINF:-1,National Geographic HD
+http://212.18.115.194:3549/play/a03x
+#EXTINF:-1,Nickelodeon
+http://212.18.115.194:3549/play/a060
+#EXTINF:-1,Nicktoons
+http://212.18.115.194:3549/play/a064
+#EXTINF:-1,ONE FHD
+http://212.18.115.194:3549/play/a01a
+#EXTINF:-1,One ARD
+http://212.18.115.194:3549/play/a00m
+#EXTINF:-1,Pro7 MAXX
+http://212.18.115.194:3549/play/a00z
+#EXTINF:-1,Pro7 MAXX FHD
+http://212.18.115.194:3549/play/a010
+#EXTINF:-1,ProSieben
+http://212.18.115.194:3549/play/a00g
+#EXTINF:-1,ProSieben FHD
+http://212.18.115.194:3549/play/a00h
+#EXTINF:-1,RTL
+http://212.18.115.194:3549/play/a008
+#EXTINF:-1,RTL +
+http://212.18.115.194:3549/play/a013
+#EXTINF:-1,RTL 2
+http://212.18.115.194:3549/play/a00a
+#EXTINF:-1,RTL 2 FHD
+http://212.18.115.194:3549/play/a00b
+#EXTINF:-1,RTL FHD
+http://212.18.115.194:3549/play/a009
 #EXTINF:-1,RTL Nitro
-http://212.18.115.192:3549/play/a00o 
-
+http://212.18.115.194:3549/play/a00o
+#EXTINF:-1,Romance TV
+http://212.18.115.194:3549/play/a00p
+#EXTINF:-1,SIXX
+http://212.18.115.194:3549/play/a00e
+#EXTINF:-1,SIXX FHD
+http://212.18.115.194:3549/play/a00f
+#EXTINF:-1,SKY Cinema
+http://212.18.115.194:3549/play/a02m
+#EXTINF:-1,SKY Cinema Family
+http://212.18.115.194:3549/play/a02q
+#EXTINF:-1,SKY Cinema Family FHD
+http://212.18.115.194:3549/play/a02r
+#EXTINF:-1,SUPER RTL FHD
+http://212.18.115.194:3549/play/a05x
+#EXTINF:-1,Sat 1
+http://212.18.115.194:3549/play/a00c
+#EXTINF:-1,Sat 1 FHD
+http://212.18.115.194:3549/play/a00d
+#EXTINF:-1,Sat 1 Gold
+http://212.18.115.194:3549/play/a00x
+#EXTINF:-1,Sat 1 Gold FHD
+http://212.18.115.194:3549/play/a00y
+#EXTINF:-1,Sky 1 FHD
+http://212.18.115.194:3549/play/a034
+#EXTINF:-1,Sky Atlantic HD
+http://212.18.115.194:3549/play/a031
+#EXTINF:-1,Sky Cinema Action
+http://212.18.115.194:3549/play/a02s
+#EXTINF:-1,Sky Cinema Best Of FHD
+http://212.18.115.194:3549/play/a02p
+#EXTINF:-1,Sky Cinema Best Of HD
+http://212.18.115.194:3549/play/a02o
+#EXTINF:-1,Sky Cinema Classics
+http://212.18.115.194:3549/play/a02n
+#EXTINF:-1,Sky Cinema Comedy
+http://212.18.115.194:3549/play/a02w
+#EXTINF:-1,Sky Cinema Premieren
+http://212.18.115.194:3549/play/a02y
+#EXTINF:-1,Sky Cinema Premieren +24 HD
+http://212.18.115.194:3549/play/a02x
+#EXTINF:-1,Sky Cinema Special FHD
+http://212.18.115.194:3549/play/a02z
+#EXTINF:-1,Sky Cinema Summerfeeling
+http://212.18.115.194:3549/play/a02t
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://212.18.115.194:3549/play/a02v
+#EXTINF:-1,Sky Documentaries FHD
+http://212.18.115.194:3549/play/a040
+#EXTINF:-1,Sky Krimi HD
+http://212.18.115.194:3549/play/a032
+#EXTINF:-1,Sky Nature FHD
+http://212.18.115.194:3549/play/a041
+#EXTINF:-1,Sky Replay FHD
+http://212.18.115.194:3549/play/a033
+#EXTINF:-1,Super RTL
+http://212.18.115.194:3549/play/a05w
+#EXTINF:-1,Syfy HD
+http://212.18.115.194:3549/play/a038
+#EXTINF:-1,TLC
+http://212.18.115.194:3549/play/a03p
+#EXTINF:-1,TLC FHD
+http://212.18.115.194:3549/play/a03q
 #EXTINF:-1,TNT Comedy FHD
 http://212.18.115.194:3549/play/a036
 #EXTINF:-1,TNT Film HD
 http://212.18.115.194:3549/play/a035
 #EXTINF:-1,TNT Serie HD
-http://212.18.115.194:3549/play/a01k 
-
+http://212.18.115.194:3549/play/a01k
+#EXTINF:-1,Tagesschau 24 FHD
+http://212.18.115.194:3549/play/a021
+#EXTINF:-1,Toggo +
+http://212.18.115.194:3549/play/a061
+#EXTINF:-1,Universal TV FHD
+http://212.18.115.194:3549/play/a01h
+#EXTINF:-1,VOX
+http://212.18.115.194:3549/play/a00k
+#EXTINF:-1,VOX FHD
+http://212.18.115.194:3549/play/a00l
+#EXTINF:-1,VOXup
+http://212.18.115.194:3549/play/a00n
 #EXTINF:-1,Warner TV Comedy FHD
 http://212.18.115.194:3549/play/a030
 #EXTINF:-1,Warner TV Serie FHD
-http://212.18.115.194:3549/play/a02u 
-#EXTINF:-1,Universal TV FHD
-http://212.18.115.194:3549/play/a01h 
-
-
-
-#EXTINF:-1,SIXX FHD
-http://212.18.115.194:3549/play/a00f 
-
-#EXTINF:-1,SKY Cinema 1
-http://212.18.115.194:3549/play/a02m 
-#EXTINF:-1,SKY Cinema 2
-http://212.18.115.191:3549/play/a02m 
-
-#EXTINF:-1,SKY Cinema Family 1
-http://212.18.115.194:3549/play/a02q 
-#EXTINF:-1,SKY Cinema Family 2
-http://212.18.115.191:3549/play/a02q 
-
-#EXTINF:-1,SKY Cinema Family FHD 1
-http://212.18.115.194:3549/play/a02r 
-#EXTINF:-1,SKY Cinema Family FHD 2
-http://212.18.115.191:3549/play/a02r 
-
-#EXTINF:-1,Sky 1 FHD 1 
-http://212.18.115.194:3549/play/a034 
-#EXTINF:-1,Sky 1 FHD 2
-http://212.18.115.192:3549/play/a034 
-#EXTINF:-1,Sky 1 FHD 3
-http://212.18.115.191:3549/play/a034
-
-#EXTINF:-1,Sky Atlantic HD 1
-http://212.18.115.194:3549/play/a031 
-#EXTINF:-1,Sky Atlantic HD 2
-http://212.18.115.192:3549/play/a031
-#EXTINF:-1,Sky Atlantic HD 3
-http://212.18.115.191:3549/play/a031 
-
-#EXTINF:-1,Sky Cinema Action 1
-http://212.18.115.194:3549/play/a02s 
-#EXTINF:-1,Sky Cinema Action 2
-http://212.18.115.192:3549/play/a02s 
-#EXTINF:-1,Sky Cinema Action 3
-http://212.18.115.191:3549/play/a02s
-
-#EXTINF:-1,Sky Cinema Best Of FHD 1
-http://212.18.115.194:3549/play/a02p 
-#EXTINF:-1,Sky Cinema Best Of FHD 2
-http://212.18.115.192:3549/play/a02p 
-#EXTINF:-1,Sky Cinema Best Of FHD 3
-http://212.18.115.191:3549/play/a02p
-
-#EXTINF:-1,Sky Cinema Best Of HD 1
-http://212.18.115.194:3549/play/a02o 
-#EXTINF:-1,Sky Cinema Best Of HD 2
-http://212.18.115.192:3549/play/a02o 
-#EXTINF:-1,Sky Cinema Best Of HD 3
-http://212.18.115.191:3549/play/a02o 
-
-#EXTINF:-1,Sky Cinema Classics 1
-http://212.18.115.194:3549/play/a02n 
-#EXTINF:-1,Sky Cinema Classics 2
-http://212.18.115.192:3549/play/a02n 
-#EXTINF:-1,Sky Cinema Classics 3
-http://212.18.115.191:3549/play/a02n
-
-#EXTINF:-1,Sky Cinema Comedy 1
-http://212.18.115.194:3549/play/a02w 
-#EXTINF:-1,Sky Cinema Comedy 2
-http://212.18.115.192:3549/play/a02w 
-#EXTINF:-1,Sky Cinema Comedy 3
-http://212.18.115.191:3549/play/a02w
-
-#EXTINF:-1,Sky Cinema Premieren 1
-http://212.18.115.194:3549/play/a02y 
-#EXTINF:-1,Sky Cinema Premieren 2
-http://212.18.115.192:3549/play/a02y 
-#EXTINF:-1,Sky Cinema Premieren 3
-http://212.18.115.191:3549/play/a02y 
-
-#EXTINF:-1,Sky Cinema Premieren +24 HD 1
-http://212.18.115.194:3549/play/a02x 
-#EXTINF:-1,Sky Cinema Premieren +24 HD 2
-http://212.18.115.192:3549/play/a02x 
-#EXTINF:-1,Sky Cinema Premieren +24 HD 3
-http://212.18.115.191:3549/play/a02x 
-
-#EXTINF:-1,Sky Cinema Special FHD 1
-http://212.18.115.194:3549/play/a02z 
-#EXTINF:-1,Sky Cinema Special FHD 2
-http://212.18.115.192:3549/play/a02z
-#EXTINF:-1,Sky Cinema Special FHD 3
-http://212.18.115.191:3549/play/a02z
-
-#EXTINF:-1,Sky Cinema Summerfeeling 1
-http://212.18.115.194:3549/play/a02t 
-#EXTINF:-1,Sky Cinema Summerfeeling 2
-http://212.18.115.192:3549/play/a02t 
-#EXTINF:-1,Sky Cinema Summerfeeling 3
-http://212.18.115.191:3549/play/a02t
-
-#EXTINF:-1,Sky Cinema Thriller FHD 1
-http://212.18.115.194:3549/play/a02v 
-#EXTINF:-1,Sky Cinema Thriller FHD 2
-http://212.18.115.192:3549/play/a02v 
-#EXTINF:-1,Sky Cinema Thriller FHD 3
-http://212.18.115.191:3549/play/a02v 
-
-#EXTINF:-1,Sky Documentaries FHD 1
-http://212.18.115.194:3549/play/a040 
-#EXTINF:-1,Sky Documentaries FHD 2
-http://212.18.115.192:3549/play/a040 
-#EXTINF:-1,Sky Documentaries FHD 3
-http://212.18.115.191:3549/play/a040
-
-#EXTINF:-1,Sky Krimi HD 1
-http://212.18.115.194:3549/play/a032 
-#EXTINF:-1,Sky Krimi HD 2
-http://212.18.115.192:3549/play/a032 
-#EXTINF:-1,Sky Krimi HD 3
-http://212.18.115.191:3549/play/a032
-
-#EXTINF:-1,Sky Nature FHD 1
-http://212.18.115.194:3549/play/a041 
-#EXTINF:-1,Sky Nature FHD 2
-http://212.18.115.192:3549/play/a041 
-#EXTINF:-1,Sky Nature FHD 3
-http://212.18.115.191:3549/play/a041 
-
-#EXTINF:-1,Sky Replay FHD 1
-http://212.18.115.194:3549/play/a033 
-#EXTINF:-1,Sky Replay FHD 2
-http://212.18.115.192:3549/play/a033 
-#EXTINF:-1,Sky Replay FHD 3
-http://212.18.115.191:3549/play/a033
-
-
-
+http://212.18.115.194:3549/play/a02u
+#EXTINF:-1,ZDF
+http://212.18.115.194:3549/play/a003
+#EXTINF:-1,ZDF FHD
+http://212.18.115.194:3549/play/a004
+#EXTINF:-1,ZDF Info
+http://212.18.115.194:3549/play/a005
+#EXTINF:-1,ZDF Info FHD
+http://212.18.115.194:3549/play/a006
+#EXTINF:-1,ZDF neo FHD
+http://212.18.115.194:3549/play/a007
+#EXTINF:-1,hr-Fernsehen
+http://212.18.115.194:3549/play/a03d
+#EXTINF:-1,kabel eins Doku
+http://212.18.115.194:3549/play/a03m
+#EXTINF:-1,rbb Berlin
+http://212.18.115.194:3549/play/a03f
+#EXTINF:-1,rbb Berlin FHD
+http://212.18.115.194:3549/play/a03g
 
 
