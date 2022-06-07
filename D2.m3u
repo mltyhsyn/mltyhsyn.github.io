@@ -21,6 +21,10 @@ http://212.18.115.193:3549/play/a007/index.m3u8
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/500px-13th_street_logo_2020.svg.png " group-title=" ",13th STREET 
 http://212.18.115.193:3549/play/a037/index.m3u8
 
+sky replay
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/9/94/Sky_Group_Logo_2020.svg/500px-Sky_Group_Logo_2020.svg.png " group-title=" ",sky replay
+http://212.18.115.193:3549/play/a01j/index.m3u8 
+
 Discovery Channel HD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png  " group-title=" ",Discovery CHANNEL 
 http://212.18.115.193:3549/play/a03u/index.m3u8
@@ -33,12 +37,20 @@ SAT 1 GOLD
 #EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
 http://212.18.115.193:3549/play/a00x/index.m3u8 
 
+NITRO FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ",NITRO
+http://212.18.115.193:3549/play/a016/index.m3u8
+
 ONE 
 #EXTINF:1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One 
 http://212.18.115.193:3549/play/a01a/index.m3u8 
 
+Kabel Eins FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/500px-Kabel_eins_Logo_2015.svg.png " group-title=" ",KABEL EINS
+http://212.18.115.193:3549/play/a00j/index.m3u8
+
 KABEL EINS CLASSICS
-#EXTINF:-1,tvg-id="kabeleinsclassic.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/500px-Kabel_Eins_Classics_2021.svg.png " group-title=" ", KABEL EINS CLASSICS 
+#EXTINF:-1,tvg-id="kabeleinsclassic.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/500px-Kabel_Eins_Classics_2021.svg.png " group-title=" ", KABELEINSCLASSICS 
 http://185.234.217.21:8006/play/a02d/index.m3u8 
 
 HEIMATKANAL 
