@@ -105,6 +105,10 @@ Romance TV
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/500px-Romance_TV_Logo_10.2019.svg.png " group-title=" ",Romance TV 
 http://212.18.115.193:3549/play/a00p/index.m3u8
 
+SIXX FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/500px-Sixx_Logo.svg.png  " group-title=" ",SIXX 
+http://212.18.115.193:3549/play/a00f/index.m3u8
+
 
 
 
