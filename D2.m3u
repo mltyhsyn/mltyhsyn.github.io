@@ -3,7 +3,7 @@
 
 DAS ERSTE 
 #EXTINF:1 tvg-id="DasErste.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title=" ",Das Erste 
-
+http://212.18.115.193:3549/play/a002/index.m3u8 
 
 ZDF 
 #EXTINF:1 tvg-id="ZDF.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png" group-title=" ",Zdf 
