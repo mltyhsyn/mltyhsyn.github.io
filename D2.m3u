@@ -68,6 +68,14 @@ Sky Cinema Thriller FHD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/1280px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png   " group-title=" ",Sky Cinema Thriller
 http://212.18.115.193:3549/play/a02v/index.m3u8
 
+SKY Cinema
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/1280px-Sky_Cinema_-_Logo_2020.svg.png   " group-title=" ",sky cinema 
+http://212.18.115.193:3549/play/a02m/index.m3u8
+
+SKY Cinema Family FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1280px-Sky_Cinema_Family_-_Logo_2021.svg.png    " group-title=" ",sky cinema family 
+http://212.18.115.193:3549/play/a02r/index.m3u8
+
 13th Street 
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/500px-13th_street_logo_2020.svg.png " group-title=" ",13th STREET 
 http://212.18.115.193:3549/play/a037/index.m3u8
@@ -124,6 +132,30 @@ http://212.18.115.193:3549/play/a039/index.m3u8
 KIKA 
 #EXTINF:1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
 http://212.18.115.193:3549/play/a05z/index.m3u8 
+
+Disney Channel FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL 
+http://212.18.115.193:3549/play/a063/index.m3u8
+
+Nickelodeon
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png  " group-title=" ",Nickelodeon
+http://212.18.115.193:3549/play/a060/index.m3u8
+
+Nicktoons
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/Nicktoons_Logo.svg/1280px-Nicktoons_Logo.svg.png  " group-title=" ",Nicktoons 
+http://212.18.115.193:3549/play/a064/index.m3u8
+
+SUPER RTL FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/1280px-Super_RTL_Logo_orange_2019.svg.png    " group-title=" ",SUPER RTL 
+http://212.18.115.193:3549/play/a05x/index.m3u8
+
+Toggo +
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/500px-ToggoPlus_Logo_2019.svg.png   " group-title=" ",TOGGO+
+http://212.18.115.193:3549/play/a061/index.m3u8
+
+Cartoon Network
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png  " group-title=" ",Cartoon Network 
+http://212.18.115.193:3549/play/a065/index.m3u8
 
 3SAT 
 #EXTINF:1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
@@ -189,4 +221,24 @@ http://212.18.115.193:3549/play/a032/index.m3u8
 Sky Nature FHD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/1024px-Sky_Nature.svg.png  " group-title=" ",Sky Nature 
 http://212.18.115.193:3549/play/a041/index.m3u8
+
+Syfy HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/500px-SYFY.svg.png    " group-title=" ",syfy 
+http://212.18.115.193:3549/play/a038/index.m3u8
+
+TLC FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png   " group-title=" ", TLC
+http://212.18.115.193:3549/play/a03q/index.m3u8 
+
+DMAX FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1280px-DMAX_-_Logo_2016.svg.png " group-title=" ",DMAX 
+http://212.18.115.193:3549/play/a03o/index.m3u8
+
+SKY Cinema Family
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1280px-Sky_Cinema_Family_-_Logo_2021.svg.png " group-title=" ",sky cinema family
+http://212.18.115.193:3549/play/a02q/index.m3u8
+
+Disney Channel
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL 
+http://212.18.115.193:3549/play/a062/index.m3u8
 
