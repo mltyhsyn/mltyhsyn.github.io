@@ -99,8 +99,8 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
-ALFA 
-#EXTINF:1 tvg-id="ARDAlpha.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alfa_TV_%28Bulgaria%29_logo.png/250px-Alfa_TV_%28Bulgaria%29_logo.png" group-title=" ",ALFA 
+ALFA  
+#EXTINF:1 tvg-id="ARDAlpha.de" tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title=" ",ARD alfa 
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_1280p_3328.m3u8 
 https://brcdn.vo.llnwd.net/br/fs/ard_alpha/hls/de/master_1280p_3628.m3u8
 
