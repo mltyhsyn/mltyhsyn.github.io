@@ -11,11 +11,11 @@ http://212.18.115.193:3549/play/a004/index.m3u8
 
 ZDF INFO
 #EXTINF:1 tvg-id="ZDFInfo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png" group-title=" ",Zdf info 
-
+http://212.18.115.193:3549/play/a006/index.m3u8 
 
 ZDF NEO
 #EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
-
+http://212.18.115.193:3549/play/a007/index.m3u8 
 
 
 
