@@ -45,6 +45,10 @@ SAT 1 GOLD
 #EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
 http://212.18.115.193:3549/play/a00x/index.m3u8 
 
+SAT 1 GOLD HD
+#EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD HD 
+http://212.18.115.193:3549/play/a00y/index.m3u8 
+
 NITRO FHD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ",NITRO
 http://212.18.115.193:3549/play/a016/index.m3u8
@@ -84,6 +88,23 @@ http://212.18.115.193:3549/play/a00h/index.m3u8
 Pro7 MAXX FHD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/500px-ProSieben_MAXX_Logo.svg.png " group-title=" ",Pro7 MAXX
 http://212.18.115.193:3549/play/a010/index.m3u8
+
+RTL 2 FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/500px-RTLZWEI_Logo_2019.svg.png  " group-title=" ",RTL II 
+http://212.18.115.193:3549/play/a00b/index.m3u8
+
+RTL FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/500px-RTL_Logo_2021.svg.png " group-title=" ",RTL 
+http://212.18.115.193:3549/play/a009/index.m3u8
+
+RTL Nitro
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ", RTL nitro 
+http://212.18.115.193:3549/play/a00o/index.m3u8
+
+Romance TV
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/500px-Romance_TV_Logo_10.2019.svg.png " group-title=" ",Romance TV 
+http://212.18.115.193:3549/play/a00p/index.m3u8
+
 
 
 
