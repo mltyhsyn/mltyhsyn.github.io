@@ -44,10 +44,29 @@ Sky Cinema Action
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/1280px-Sky_Cinema_Action_-_Logo_2021.svg.png  " group-title=" ",Sky Action 
 http://212.18.115.193:3549/play/a02s/index.m3u8
 
+Sky Cinema Best Of FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/1280px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png   " group-title=" ",sky cinema best HD
+http://212.18.115.193:3549/play/a02p/index.m3u8
+
+Sky Cinema Classics
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sky_Cinema_Classics_-_Logo_2016.svg/1280px-Sky_Cinema_Classics_-_Logo_2016.svg.png    " group-title=" ",sky classics 
+http://212.18.115.193:3549/play/a02n/index.m3u8
+
+Sky Cinema Premieren +24 HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/4/42/Sky_Cinema_Premieren_%2B24_DE_2020_Logo.png    " group-title=" ",Sky Cinema Premieren +24
+http://212.18.115.193:3549/play/a02x/index.m3u8
+
 sky replay 
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/1600px-Sky_Replay_DE_Logo_2021.svg.png " group-title=" ",sky replay 
 http://212.18.115.193:3549/play/a033/index.m3u8 
 
+Sky Cinema Special FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/1280px-Sky_Cinema_Special_DE_Logo_2020.svg.png   " group-title=" ",sky special 
+http://212.18.115.193:3549/play/a02z/index.m3u8
+
+Sky Cinema Thriller FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/1280px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png   " group-title=" ",Sky Cinema Thriller
+http://212.18.115.193:3549/play/a02v/index.m3u8
 
 13th Street 
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/500px-13th_street_logo_2020.svg.png " group-title=" ",13th STREET 
@@ -141,4 +160,33 @@ http://212.18.115.193:3549/play/a00f/index.m3u8
 sky replay
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/1600px-Sky_Replay_DE_Logo_2021.svg.png " group-title=" ",sky replay 
 http://212.18.115.193:3549/play/a01j/index.m3u8 
+
+Sky Cinema Best Of HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/1280px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png    " group-title=" ",sky cinema best
+http://212.18.115.193:3549/play/a02o/index.m3u8
+
+Sky Cinema Comedy
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Cinema_Comedy_-_Logo_2018.svg/1280px-Sky_Cinema_Comedy_-_Logo_2018.svg.png    " group-title=" ",sky cinema comedy 
+http://212.18.115.193:3549/play/a02w/index.m3u8
+
+Sky Cinema Premieren
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/1280px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png     " group-title=" ",sky premieren
+http://212.18.115.193:3549/play/a02y/index.m3u8
+
+Sky Cinema Summerfeeling
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/1280px-Sky_Cinema_Fun_DE_Logo_2020.svg.png    " group-title=" ",Sky Cinema Summerfeeling
+http://212.18.115.193:3549/play/a02t/index.m3u8
+
+
+Sky Documentaries FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/800px-Sky_Documentaries_Logo_2020.png  " group-title=" ",Sky Documentaries
+http://212.18.115.193:3549/play/a040/index.m3u8
+
+Sky Krimi HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/1024px-Sky_Krimi_2020.svg.png   " group-title=" ",Sky Krimi 
+http://212.18.115.193:3549/play/a032/index.m3u8
+
+Sky Nature FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/1024px-Sky_Nature.svg.png  " group-title=" ",Sky Nature 
+http://212.18.115.193:3549/play/a041/index.m3u8
 
