@@ -1,1 +1,50 @@
+#EXTM3U
+
+
+DAS ERSTE 
+#EXTINF:1 tvg-id="DasErste.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title=" ",Das Erste 
+
+
+ZDF 
+#EXTINF:1 tvg-id="ZDF.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png" group-title=" ",Zdf 
+http://212.18.115.193:3549/play/a004/index.m3u8 
+
+ZDF INFO
+#EXTINF:1 tvg-id="ZDFInfo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png" group-title=" ",Zdf info 
+
+
+ZDF NEO
+#EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
+
+
+
+
+
+SAT 1 GOLD
+#EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
+
+
+ONE 
+#EXTINF:1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One 
+
+
+KABEL EINS CLASSICS
+#EXTINF:-1,tvg-id="kabeleinsclassic.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/500px-Kabel_Eins_Classics_2021.svg.png " group-title=" ", KABEL EINS CLASSICS 
+
+
+HEIMATKANAL 
+#EXTINF:-1,tvg-id="heimatkanal.de" tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heimatkanal_Logo_2015.svg/500px-Heimatkanal_Logo_2015.svg.png " group-title=" ", HEIMATKANAL 
+
+
+KIKA 
+#EXTINF:1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
+
+
+3SAT 
+#EXTINF:1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
+
+
+
+
+
 
