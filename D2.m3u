@@ -365,3 +365,7 @@ ATV 2
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/1280px-ATV_Austria_HD.svg.png " group-title=" ",ATV 2
 http://212.18.115.193:3549/play/a01o/index.m3u8
 
+NTV FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/500px-N-tv_logo-september2017.svg.png   " group-title=" ",NTV 
+http://212.18.115.193:3549/play/a03j/index.m3u8 
+
