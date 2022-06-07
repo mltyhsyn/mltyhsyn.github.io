@@ -17,8 +17,17 @@ ZDF NEO
 #EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
 http://212.18.115.193:3549/play/a007/index.m3u8 
 
+13th Street 
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/500px-13th_street_logo_2020.svg.png " group-title=" ",13th STREET 
+http://212.18.115.193:3549/play/a037/index.m3u8
 
+Discovery Channel HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png  " group-title=" ",Discovery CHANNEL 
+http://212.18.115.193:3549/play/a03u/index.m3u8
 
+History FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/434px-History_%282021%29.svg.png  " group-title=" ",HISTORY
+http://212.18.115.193:3549/play/a03v/index.m3u8
 
 SAT 1 GOLD
 #EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
