@@ -7,7 +7,12 @@ http://212.18.115.177:3169/play/ftv/index.m3u8
 #EXTINF:-1,RHD_xxx
 http://109.200.130.123:7032/play/353
 #EXTINF:-1,Vivid Red HD
-http://109.200.130.123:7032/play/a00g
+http://109.200.130.123:7032/play/a00g 
+
+#EXTINF:-1,PlayBoy HD
+http://45.177.109.47:58001/play/a06b/index.m3u8
+#EXTINF:-1,Playboy HD
+http://45.177.109.47:58001/play/a07t/index.m3u8
 
 #EXTINF:-1,701. Erotic 1
 http://87.250.63.18:8889/play/Erotic1
