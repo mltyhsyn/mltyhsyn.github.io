@@ -17,13 +17,20 @@ ZDF NEO
 #EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
 http://212.18.115.193:3549/play/a007/index.m3u8 
 
+Universal TV FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png   " group-title=" ",Universal TV 
+http://212.18.115.193:3549/play/a01h/index.m3u8
+
 13th Street 
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/500px-13th_street_logo_2020.svg.png " group-title=" ",13th STREET 
 http://212.18.115.193:3549/play/a037/index.m3u8
 
 sky replay
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/9/94/Sky_Group_Logo_2020.svg/500px-Sky_Group_Logo_2020.svg.png " group-title=" ",sky replay
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/9/94/Sky_Group_Logo_2020.svg/500px-Sky_Group_Logo_2020.svg.png " group-title=" ",sky replay 
 http://212.18.115.193:3549/play/a01j/index.m3u8 
+sky replay 
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/9/94/Sky_Group_Logo_2020.svg/500px-Sky_Group_Logo_2020.svg.png " group-title=" ",sky replay HD 
+http://212.18.115.193:3549/play/a033/index.m3u8 
 
 Nat Geo Wild HD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png  " group-title=" ",Nat Geo Wild 
