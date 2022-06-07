@@ -22,26 +22,31 @@ http://212.18.115.193:3549/play/a007/index.m3u8
 
 SAT 1 GOLD
 #EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
-
+http://212.18.115.193:3549/play/a00x/index.m3u8 
 
 ONE 
 #EXTINF:1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One 
-
+http://212.18.115.193:3549/play/a01a/index.m3u8 
 
 KABEL EINS CLASSICS
 #EXTINF:-1,tvg-id="kabeleinsclassic.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/500px-Kabel_Eins_Classics_2021.svg.png " group-title=" ", KABEL EINS CLASSICS 
-
+http://185.234.217.21:8006/play/a02d/index.m3u8 
 
 HEIMATKANAL 
 #EXTINF:-1,tvg-id="heimatkanal.de" tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heimatkanal_Logo_2015.svg/500px-Heimatkanal_Logo_2015.svg.png " group-title=" ", HEIMATKANAL 
-
+http://212.18.115.193:3549/play/a039/index.m3u8 
 
 KIKA 
 #EXTINF:1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
-
+http://212.18.115.193:3549/play/a05z/index.m3u8 
 
 3SAT 
 #EXTINF:1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
+http://212.18.115.193:3549/play/a00r/index.m3u8 
+
+
+
+
 
 
 
