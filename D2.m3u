@@ -97,6 +97,12 @@ History FHD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/434px-History_%282021%29.svg.png  " group-title=" ",HISTORY
 http://212.18.115.193:3549/play/a03v/index.m3u8
 
+
+Sat 1 FHD
+#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/1280px-Neues_Sat._1_Logo_transparent.png  " group-title=" ",SAT 1 
+http://212.18.115.193:3549/play/a00d/index.m3u8
+
+
 SAT 1 GOLD
 #EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
 http://212.18.115.193:3549/play/a00x/index.m3u8 
@@ -241,4 +247,8 @@ http://212.18.115.193:3549/play/a02q/index.m3u8
 Disney Channel
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL 
 http://212.18.115.193:3549/play/a062/index.m3u8
+
+ARD Alpha FHD
+#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title=" ",ARD alfa 
+http://212.18.115.193:3549/play/a01f/index.m3u8
 
