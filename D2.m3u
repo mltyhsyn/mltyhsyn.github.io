@@ -53,6 +53,10 @@ ONE
 #EXTINF:1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One 
 http://212.18.115.193:3549/play/a01a/index.m3u8 
 
+One ARD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/400px-ARD_Logo_2019.svg.png  " group-title=" ",ARD one 
+http://212.18.115.193:3549/play/a00m/index.m3u8
+
 Kabel Eins FHD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/500px-Kabel_eins_Logo_2015.svg.png " group-title=" ",KABEL EINS
 http://212.18.115.193:3549/play/a00j/index.m3u8
@@ -73,7 +77,13 @@ http://212.18.115.193:3549/play/a05z/index.m3u8
 #EXTINF:1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
 http://212.18.115.193:3549/play/a00r/index.m3u8 
 
+ProSieben FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/180px-ProSieben_Logo_2015.svg.png  " group-title=" ",ProSieben 
+http://212.18.115.193:3549/play/a00h/index.m3u8
 
+Pro7 MAXX FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/500px-ProSieben_MAXX_Logo.svg.png " group-title=" ",Pro7 MAXX
+http://212.18.115.193:3549/play/a010/index.m3u8
 
 
 
