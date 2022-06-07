@@ -25,6 +25,14 @@ sky replay
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/9/94/Sky_Group_Logo_2020.svg/500px-Sky_Group_Logo_2020.svg.png " group-title=" ",sky replay
 http://212.18.115.193:3549/play/a01j/index.m3u8 
 
+Nat Geo Wild HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png  " group-title=" ",Nat Geo Wild 
+http://212.18.115.193:3549/play/a03y/index.m3u8
+
+National Geographic HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/500px-National_Geographic_Channel.svg.png " group-title=" ",National Geographic 
+http://212.18.115.193:3549/play/a03x/index.m3u8
+
 Discovery Channel HD
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png  " group-title=" ",Discovery CHANNEL 
 http://212.18.115.193:3549/play/a03u/index.m3u8
