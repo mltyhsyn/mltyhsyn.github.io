@@ -76,9 +76,9 @@ https://mcdn.wdr.de/wdr/wdrfs/de/master_3328.m3u8
 
 ONE 
 #EXTINF:1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One FHD 
+https://mcdn.one.ard.de/ardone/hls/master-1080p-5128.m3u8
 https://mcdn.one.ard.de/ardone/hls/master-b-1080p-5128.m3u8
 https://mcdn.one.ard.de/ardone/hls/master-b-720p-3328.m3u8
-https://mcdn.one.ard.de/ardone/hls/master-1080p-5128.m3u8
 https://mcdn.one.ard.de/ardone/hls/master-720p-3328.m3u8 
 
 ARTE
@@ -356,7 +356,7 @@ http://212.18.115.193:3549/play/a062/index.m3u8
 
 ARD Alpha FHD
 #EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title=" ",ARD alfa 
-http://212.18.115.193:3549/play/a01f/index.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_1280p_3328.m3u8 
 
 ATV 1
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/1280px-ATV_Austria_HD.svg.png " group-title=" ",ATV 1
