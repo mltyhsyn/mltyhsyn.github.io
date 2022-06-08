@@ -153,6 +153,19 @@ http://212.18.115.193:3549/play/a02p/index.m3u8
 
 
 
+TNT Comedy FHD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/TNT_Comedy_Logo_2016.svg/1024px-TNT_Comedy_Logo_2016.svg.png " group-title=" ",TNT Comedy 
+http://212.18.115.193:3549/play/a036/index.m3u8
+
+TNT Film HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/TNT_Film_Logo_2016.png " group-title=" ",TNT Film 
+http://212.18.115.193:3549/play/a035/index.m3u8
+
+TNT Serie HD
+#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png " group-title=" ",TNT Serie 
+http://212.18.115.193:3549/play/a01k/index.m3u8
+
+
 
 Sky Cinema Classics
 #EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sky_Cinema_Classics_-_Logo_2016.svg/1280px-Sky_Cinema_Classics_-_Logo_2016.svg.png    " group-title=" ",sky classics 
