@@ -237,6 +237,10 @@ KABEL EINS CLASSICS
 #EXTINF:-1,tvg-id="kabeleinsclassic.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/500px-Kabel_Eins_Classics_2021.svg.png " group-title=" ", KABELEINSCLASSICS 
 http://185.234.217.21:8006/play/a02d/index.m3u8 
 
+Kabel Eins Doku HD
+#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/1280px-Kabel_eins_Doku_Logo_2016.svg.png " group-title=" ",Kabel Eins Doku 
+http://185.234.217.21:8005/play/a029/index.m3u8
+
 HEIMATKANAL 
 #EXTINF:-1,tvg-id="heimatkanal.de" tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heimatkanal_Logo_2015.svg/500px-Heimatkanal_Logo_2015.svg.png " group-title=" ", HEIMATKANAL 
 http://212.18.115.193:3549/play/a039/index.m3u8 
