@@ -2,72 +2,72 @@
 
 
 DAS ERSTE 
-#EXTINF:1 tvg-id="DasErste.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title=" ",Das Erste 
+#EXTINF:-1 tvg-id="DasErste.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title=" ",Das Erste 
 https://mcdn.daserste.de/daserste/de/master_1920p_5128.m3u8 
 http://212.18.115.193:3549/play/a002/index.m3u8 
 
 ZDF 
-#EXTINF:1 tvg-id="ZDF.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png" group-title=" ",Zdf 
+#EXTINF:-1 tvg-id="ZDF.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png" group-title=" ",Zdf 
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8 
 http://212.18.115.193:3549/play/a004/index.m3u8 
 
 ZDF INFO
-#EXTINF:1 tvg-id="ZDFInfo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png" group-title=" ",Zdf info 
+#EXTINF:-1 tvg-id="ZDFInfo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png" group-title=" ",Zdf info 
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8 
 http://212.18.115.193:3549/play/a006/index.m3u8 
 
 ZDF NEO
-#EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
+#EXTINF:-1 tvg-id="ZDFNeo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8 
 http://212.18.115.193:3549/play/a007/index.m3u8 
 
 
 BR
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png" group-title=" ",BR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png" group-title=" ",BR 
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_1920p_5128.m3u8 
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_1280p_3328.m3u8 
 
 HR
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/500px-Hr-fernsehen_Logo_2015.svg.png" group-title=" ",hr 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/500px-Hr-fernsehen_Logo_2015.svg.png" group-title=" ",hr 
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master-1080p-6596.m3u8
 https://hrhlsde.akamaized.net/hls/live/2024526-b/hrhlsde/master-1080p-6596.m3u8
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master-720p-3628.m3u8
 https://hrhlsde.akamaized.net/hls/live/2024526-b/hrhlsde/master-720p-3628.m3u8 
 
 MDR 
-#EXTINF:1 tvg-id="MDR.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png" group-title=" ",mdr 
+#EXTINF:-1 tvg-id="MDR.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png" group-title=" ",mdr 
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8 
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_1280p_3328.m3u8
 
 NDR 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" group-title=" ",NDR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" group-title=" ",NDR 
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
 https://ndrcdn.s.llnwi.net/hls/ndr_fs/ndr_nds/master_720.m3u8 
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8 
 
 
 RADİO BREMEN 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Radio_Bremen_TV.svg/500px-Logo_Radio_Bremen_TV.svg.png" group-title=" ",radio bremen 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Radio_Bremen_TV.svg/500px-Logo_Radio_Bremen_TV.svg.png" group-title=" ",radio bremen 
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master-720p-3628.m3u8
 https://rbhlslive.akamaized.net/hls/live/2020435-b/rbfs/master-720p-3628.m3u8 
 
 RBB 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/500px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title=" ", rbb 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/500px-Rbb_Fernsehen_Logo_2017.08.svg.png" group-title=" ", rbb 
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-720p-3328.m3u8
 
 SR 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/500px-SR_Fernsehen.svg.png" group-title=" ",SR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/500px-SR_Fernsehen.svg.png" group-title=" ",SR 
 https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-p.m3u8
 https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-b.m3u8 
 
 SWR 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SWR_FERNSEHEN_2014.png/250px-SWR_FERNSEHEN_2014.png" group-title=" ",SWR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SWR_FERNSEHEN_2014.png/250px-SWR_FERNSEHEN_2014.png" group-title=" ",SWR 
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3328.m3u8
 https://swrbwd-hls.akamaized.net/hls/live/2018672-b/swrbwd/master-720p-3328.m3u8 
 
 
 WDR
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/500px-WDR_Fernsehen_Logo_2018.svg.png" group-title=" ",WDR 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/500px-WDR_Fernsehen_Logo_2018.svg.png" group-title=" ",WDR 
 https://mcdn.wdr.de/wdr/wdrfs/de/master-720p-3200.m3u8 
 https://mcdn.wdr.de/wdr/wdrfs/de/master-540p-1600.m3u8 
 https://wdrcdn.s.llnwi.net/wdr/wdrfs/de/master_3328.m3u8
@@ -75,176 +75,176 @@ https://mcdn-wdr.akamaized.net/wdr/wdrfs/de/master_3328.m3u8
 https://mcdn.wdr.de/wdr/wdrfs/de/master_3328.m3u8 
 
 ONE 
-#EXTINF:1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One FHD 
+#EXTINF:-1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One FHD 
 https://mcdn.one.ard.de/ardone/hls/master-1080p-5128.m3u8
 https://mcdn.one.ard.de/ardone/hls/master-b-1080p-5128.m3u8
 https://mcdn.one.ard.de/ardone/hls/master-b-720p-3328.m3u8
 https://mcdn.one.ard.de/ardone/hls/master-720p-3328.m3u8 
 
 ARTE
-#EXTINF:1 tvg-id="ARTEDeutsch.fr" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/121px-Arte_Logo_2017.svg.png" group-title=" ",arte 
+#EXTINF:-1 tvg-id="ARTEDeutsch.fr" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/121px-Arte_Logo_2017.svg.png" group-title=" ",arte 
 https://arteliveext.akamaized.net/hls/live/2030993-b/artelive_de/master_v720.m3u8
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8 
 
 KIKA 
-#EXTINF:1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
+#EXTINF:-1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master-1080p-5128.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master-720p-3328.m3u8
 
 KIKA 
-#EXTINF:1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
+#EXTINF:-1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
 
 3SAT 
-#EXTINF:1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
+#EXTINF:-1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
 ALFA  
-#EXTINF:1 tvg-id="ARDAlpha.de" tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title=" ",ARD alfa 
+#EXTINF:-1 tvg-id="ARDAlpha.de" tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title=" ",ARD alfa 
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_1280p_3328.m3u8 
 https://brcdn.vo.llnwd.net/br/fs/ard_alpha/hls/de/master_1280p_3628.m3u8
 
 TAGESSCHAU 24
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png" group-title=" ",Tagesschau 24 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png" group-title=" ",Tagesschau 24 
 https://tagesschau.akamaized.net/hls/live/2020115-b/tagesschau/tagesschau_1/master_720.m3u8 
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master_720.m3u8
 
 PHOENİX 
-#EXTINF:1 tvg-id="Phoenix.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/500px-Phoenix-logo-2018.svg.png" group-title=" ",phoenix 
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/500px-Phoenix-logo-2018.svg.png" group-title=" ",phoenix 
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
 
 DW 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png" group-title=" ",DW 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png" group-title=" ",DW 
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 
 
 Universal TV FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png   " group-title=" ",Universal TV 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/500px-Universal_TV_logo.svg.png   " group-title=" ",Universal TV 
 http://212.18.115.193:3549/play/a01h/index.m3u8
 
 WARNER 
 FILM 
-#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/274px-Warner_Bros._%282019%29_logo.svg.png " group-title=" ",WB FILM
+#EXTINF:-1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/274px-Warner_Bros._%282019%29_logo.svg.png " group-title=" ",WB FILM
 http://185.53.88.85:8008/a/willene/live/3698832748.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 SERIE
-#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/274px-Warner_Bros._%282019%29_logo.svg.png " group-title=" ",WB SERIE
+#EXTINF:-1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/274px-Warner_Bros._%282019%29_logo.svg.png " group-title=" ",WB SERIE
 http://212.18.115.193:3549/play/a02u/index.m3u8
 COMMEDY 
-#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/274px-Warner_Bros._%282019%29_logo.svg.png " group-title=" ",WB COMMEDY
+#EXTINF:-1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/274px-Warner_Bros._%282019%29_logo.svg.png " group-title=" ",WB COMMEDY
 http://212.18.115.193:3549/play/a030/index.m3u8
 
 
 Sky 1 FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/14/Sky_One_-_Logo_2020.png     " group-title=" ", sky one 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/14/Sky_One_-_Logo_2020.png     " group-title=" ", sky one 
 http://212.18.115.193:3549/play/a034/index.m3u8
 
 Sky Atlantic HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/1280px-Sky_Atlantic_-_Logo_2020.svg.png   " group-title=" ",sky atlantic 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/1280px-Sky_Atlantic_-_Logo_2020.svg.png   " group-title=" ",sky atlantic 
 http://212.18.115.193:3549/play/a031/index.m3u8
 
 Sky Cinema Action
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/1280px-Sky_Cinema_Action_-_Logo_2021.svg.png  " group-title=" ",Sky Action 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/1280px-Sky_Cinema_Action_-_Logo_2021.svg.png  " group-title=" ",Sky Action 
 http://212.18.115.193:3549/play/a02s/index.m3u8
 
 Sky Cinema Best Of FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/1280px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png   " group-title=" ",sky cinema best HD
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/1280px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png   " group-title=" ",sky cinema best HD
 http://212.18.115.193:3549/play/a02p/index.m3u8
 
 
 
 TNT Comedy FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/TNT_Comedy_Logo_2016.svg/1024px-TNT_Comedy_Logo_2016.svg.png " group-title=" ",TNT Comedy 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/TNT_Comedy_Logo_2016.svg/1024px-TNT_Comedy_Logo_2016.svg.png " group-title=" ",TNT Comedy 
 http://212.18.115.193:3549/play/a036/index.m3u8
 
 TNT Film HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/TNT_Film_Logo_2016.png " group-title=" ",TNT Film 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/TNT_Film_Logo_2016.png " group-title=" ",TNT Film 
 http://185.53.88.67:8008/a/willene/live/3249732310.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61 
 http://212.18.115.193:3549/play/a035/index.m3u8
 
 TNT Serie HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png " group-title=" ",TNT Serie 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png " group-title=" ",TNT Serie 
 http://212.18.115.193:3549/play/a01k/index.m3u8
 
 
 
 Sky Cinema Classics
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sky_Cinema_Classics_-_Logo_2016.svg/1280px-Sky_Cinema_Classics_-_Logo_2016.svg.png    " group-title=" ",sky classics 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sky_Cinema_Classics_-_Logo_2016.svg/1280px-Sky_Cinema_Classics_-_Logo_2016.svg.png    " group-title=" ",sky classics 
 http://212.18.115.193:3549/play/a02n/index.m3u8
 
 Sky Cinema Premieren +24 HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/4/42/Sky_Cinema_Premieren_%2B24_DE_2020_Logo.png    " group-title=" ",Sky Cinema Premieren +24
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/4/42/Sky_Cinema_Premieren_%2B24_DE_2020_Logo.png    " group-title=" ",Sky Cinema Premieren +24
 http://212.18.115.193:3549/play/a02x/index.m3u8
 
 sky replay 
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/1600px-Sky_Replay_DE_Logo_2021.svg.png " group-title=" ",sky replay 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/1600px-Sky_Replay_DE_Logo_2021.svg.png " group-title=" ",sky replay 
 http://212.18.115.193:3549/play/a033/index.m3u8 
 
 Sky Cinema Special FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/1280px-Sky_Cinema_Special_DE_Logo_2020.svg.png   " group-title=" ",sky special 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/1280px-Sky_Cinema_Special_DE_Logo_2020.svg.png   " group-title=" ",sky special 
 http://212.18.115.193:3549/play/a02z/index.m3u8
 
 Sky Cinema Thriller FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/1280px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png   " group-title=" ",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/1280px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png   " group-title=" ",Sky Cinema Thriller
 http://212.18.115.193:3549/play/a02v/index.m3u8
 
 SKY Cinema
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/1280px-Sky_Cinema_-_Logo_2020.svg.png   " group-title=" ",sky cinema 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/1280px-Sky_Cinema_-_Logo_2020.svg.png   " group-title=" ",sky cinema 
 http://212.18.115.193:3549/play/a02m/index.m3u8
 
 SKY Cinema Family FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1280px-Sky_Cinema_Family_-_Logo_2021.svg.png    " group-title=" ",sky cinema family 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1280px-Sky_Cinema_Family_-_Logo_2021.svg.png    " group-title=" ",sky cinema family 
 http://212.18.115.193:3549/play/a02r/index.m3u8
 
 13th Street 
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/500px-13th_street_logo_2020.svg.png " group-title=" ",13th STREET 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/500px-13th_street_logo_2020.svg.png " group-title=" ",13th STREET 
 http://212.18.115.193:3549/play/a037/index.m3u8
 
 
 Nat Geo Wild HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png  " group-title=" ",Nat Geo Wild 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png  " group-title=" ",Nat Geo Wild 
 http://212.18.115.193:3549/play/a03y/index.m3u8
 
 National Geographic HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/500px-National_Geographic_Channel.svg.png " group-title=" ",National Geographic 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/500px-National_Geographic_Channel.svg.png " group-title=" ",National Geographic 
 http://212.18.115.193:3549/play/a03x/index.m3u8
 
 Discovery Channel HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png  " group-title=" ",Discovery CHANNEL 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png  " group-title=" ",Discovery CHANNEL 
 http://212.18.115.193:3549/play/a03u/index.m3u8
 
 History FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/434px-History_%282021%29.svg.png  " group-title=" ",HISTORY
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/434px-History_%282021%29.svg.png  " group-title=" ",HISTORY
 http://212.18.115.193:3549/play/a03v/index.m3u8
 
 
 Sat 1 FHD
-#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/1280px-Neues_Sat._1_Logo_transparent.png  " group-title=" ",SAT 1 
+#EXTINF:-1 tvg-id=" " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/1280px-Neues_Sat._1_Logo_transparent.png  " group-title=" ",SAT 1 
 http://212.18.115.193:3549/play/a00d/index.m3u8
 
 
 SAT 1 GOLD
-#EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
 http://212.18.115.193:3549/play/a00x/index.m3u8 
 
 SAT 1 GOLD HD
-#EXTINF:1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD HD 
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD HD 
 http://212.18.115.193:3549/play/a00y/index.m3u8 
 
 NITRO FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ",NITRO
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ",NITRO
 http://212.18.115.193:3549/play/a016/index.m3u8 
 
 ONE 
-#EXTINF:1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One 
+#EXTINF:-1 tvg-id="One.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One 
 http://212.18.115.193:3549/play/a01a/index.m3u8 
 
 One ARD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/400px-ARD_Logo_2019.svg.png  " group-title=" ",ARD one 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/400px-ARD_Logo_2019.svg.png  " group-title=" ",ARD one 
 http://212.18.115.193:3549/play/a00m/index.m3u8 
 
 Kabel Eins FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/500px-Kabel_eins_Logo_2015.svg.png " group-title=" ",KABEL EINS
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/500px-Kabel_eins_Logo_2015.svg.png " group-title=" ",KABEL EINS
 http://212.18.115.193:3549/play/a00j/index.m3u8 
 
 KABEL EINS CLASSICS
@@ -252,7 +252,7 @@ KABEL EINS CLASSICS
 http://185.234.217.21:8006/play/a02d/index.m3u8 
 
 Kabel Eins Doku HD
-#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/1280px-Kabel_eins_Doku_Logo_2016.svg.png " group-title=" ",Kabel Eins Doku 
+#EXTINF:-1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/1280px-Kabel_eins_Doku_Logo_2016.svg.png " group-title=" ",Kabel Eins Doku 
 http://185.234.217.21:8005/play/a029/index.m3u8 
 
 HEIMATKANAL 
@@ -260,130 +260,130 @@ HEIMATKANAL
 http://212.18.115.193:3549/play/a039/index.m3u8 
 
 KIKA 
-#EXTINF:1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
+#EXTINF:-1 tvg-id="KIKA.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
 http://212.18.115.193:3549/play/a05z/index.m3u8 
 
 Disney Channel FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL 
 http://212.18.115.193:3549/play/a063/index.m3u8 
 
 Nickelodeon
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png  " group-title=" ",Nickelodeon
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png  " group-title=" ",Nickelodeon
 http://212.18.115.193:3549/play/a060/index.m3u8 
 
 Nicktoons
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/Nicktoons_Logo.svg/1280px-Nicktoons_Logo.svg.png  " group-title=" ",Nicktoons 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/Nicktoons_Logo.svg/1280px-Nicktoons_Logo.svg.png  " group-title=" ",Nicktoons 
 http://212.18.115.193:3549/play/a064/index.m3u8 
 
 SUPER RTL FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/1280px-Super_RTL_Logo_orange_2019.svg.png    " group-title=" ",SUPER RTL 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/1280px-Super_RTL_Logo_orange_2019.svg.png    " group-title=" ",SUPER RTL 
 http://212.18.115.193:3549/play/a05x/index.m3u8 
 
 Toggo +
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/500px-ToggoPlus_Logo_2019.svg.png   " group-title=" ",TOGGO+
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/500px-ToggoPlus_Logo_2019.svg.png   " group-title=" ",TOGGO+
 http://212.18.115.193:3549/play/a061/index.m3u8 
 
 Cartoon Network
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png  " group-title=" ",Cartoon Network 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png  " group-title=" ",Cartoon Network 
 http://212.18.115.193:3549/play/a065/index.m3u8 
 
 3SAT 
-#EXTINF:1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
+#EXTINF:-1 tvg-id="3sat.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title=" ",3 SAT 
 http://212.18.115.193:3549/play/a00r/index.m3u8 
 
 ProSieben FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/180px-ProSieben_Logo_2015.svg.png  " group-title=" ",ProSieben 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/180px-ProSieben_Logo_2015.svg.png  " group-title=" ",ProSieben 
 http://212.18.115.193:3549/play/a00h/index.m3u8 
 
 Pro7 MAXX FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/500px-ProSieben_MAXX_Logo.svg.png " group-title=" ",Pro7 MAXX
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/500px-ProSieben_MAXX_Logo.svg.png " group-title=" ",Pro7 MAXX
 http://212.18.115.193:3549/play/a010/index.m3u8 
 
 RTL 2 FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/500px-RTLZWEI_Logo_2019.svg.png  " group-title=" ",RTL II 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/500px-RTLZWEI_Logo_2019.svg.png  " group-title=" ",RTL II 
 http://212.18.115.193:3549/play/a00b/index.m3u8 
 
 RTL FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/500px-RTL_Logo_2021.svg.png " group-title=" ",RTL 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/500px-RTL_Logo_2021.svg.png " group-title=" ",RTL 
 http://212.18.115.193:3549/play/a009/index.m3u8 
 
 RTL Nitro
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ", RTL nitro 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ", RTL nitro 
 http://212.18.115.193:3549/play/a00o/index.m3u8 
 
 Romance TV
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/500px-Romance_TV_Logo_10.2019.svg.png " group-title=" ",Romance TV 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/500px-Romance_TV_Logo_10.2019.svg.png " group-title=" ",Romance TV 
 http://212.18.115.193:3549/play/a00p/index.m3u8 
 
 SIXX FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/500px-Sixx_Logo.svg.png  " group-title=" ",SIXX 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/500px-Sixx_Logo.svg.png  " group-title=" ",SIXX 
 http://212.18.115.193:3549/play/a00f/index.m3u8 
 
 sky replay
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/1600px-Sky_Replay_DE_Logo_2021.svg.png " group-title=" ",sky replay 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/1600px-Sky_Replay_DE_Logo_2021.svg.png " group-title=" ",sky replay 
 http://212.18.115.193:3549/play/a01j/index.m3u8 
 
 Sky Cinema Best Of HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/1280px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png    " group-title=" ",sky cinema best
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/1280px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png    " group-title=" ",sky cinema best
 http://212.18.115.193:3549/play/a02o/index.m3u8 
 
 Sky Cinema Comedy
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Cinema_Comedy_-_Logo_2018.svg/1280px-Sky_Cinema_Comedy_-_Logo_2018.svg.png    " group-title=" ",sky cinema comedy 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Cinema_Comedy_-_Logo_2018.svg/1280px-Sky_Cinema_Comedy_-_Logo_2018.svg.png    " group-title=" ",sky cinema comedy 
 http://212.18.115.193:3549/play/a02w/index.m3u8 
 
 Sky Cinema Premieren
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/1280px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png     " group-title=" ",sky premieren
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/1280px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png     " group-title=" ",sky premieren
 http://212.18.115.193:3549/play/a02y/index.m3u8 
 
 Sky Cinema Summerfeeling
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/1280px-Sky_Cinema_Fun_DE_Logo_2020.svg.png    " group-title=" ",Sky Cinema Summerfeeling
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/1280px-Sky_Cinema_Fun_DE_Logo_2020.svg.png    " group-title=" ",Sky Cinema Summerfeeling
 http://212.18.115.193:3549/play/a02t/index.m3u8 
 
 
 Sky Documentaries FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/800px-Sky_Documentaries_Logo_2020.png  " group-title=" ",Sky Documentaries
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/800px-Sky_Documentaries_Logo_2020.png  " group-title=" ",Sky Documentaries
 http://212.18.115.193:3549/play/a040/index.m3u8 
 
 Sky Krimi HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/1024px-Sky_Krimi_2020.svg.png   " group-title=" ",Sky Krimi 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/1024px-Sky_Krimi_2020.svg.png   " group-title=" ",Sky Krimi 
 http://212.18.115.193:3549/play/a032/index.m3u8 
 
 Sky Nature FHD
-#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/1024px-Sky_Nature.svg.png  " group-title=" ",Sky Nature 
+#EXTINF:-1 tvg-id=" " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/1024px-Sky_Nature.svg.png  " group-title=" ",Sky Nature 
 http://212.18.115.193:3549/play/a041/index.m3u8 
 
 Syfy HD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/500px-SYFY.svg.png    " group-title=" ",syfy 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/500px-SYFY.svg.png    " group-title=" ",syfy 
 http://212.18.115.193:3549/play/a038/index.m3u8
 
 TLC FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png   " group-title=" ", TLC
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png   " group-title=" ", TLC
 http://212.18.115.193:3549/play/a03q/index.m3u8 
 
 DMAX FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1280px-DMAX_-_Logo_2016.svg.png " group-title=" ",DMAX 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1280px-DMAX_-_Logo_2016.svg.png " group-title=" ",DMAX 
 http://212.18.115.193:3549/play/a03n/index.m3u8
 
 SKY Cinema Family
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1280px-Sky_Cinema_Family_-_Logo_2021.svg.png " group-title=" ",sky cinema family
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1280px-Sky_Cinema_Family_-_Logo_2021.svg.png " group-title=" ",sky cinema family
 http://212.18.115.193:3549/play/a02q/index.m3u8
 
 Disney Channel
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL 
 http://212.18.115.193:3549/play/a062/index.m3u8
 
 ARD Alpha FHD
-#EXTINF:1 tvg-id=" " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title=" ",ARD alfa 
+#EXTINF:-1 tvg-id=" " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title=" ",ARD alfa 
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_1280p_3328.m3u8 
 
 ATV 1
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/1280px-ATV_Austria_HD.svg.png " group-title=" ",ATV 1
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/1280px-ATV_Austria_HD.svg.png " group-title=" ",ATV 1
 http://212.18.115.193:3549/play/a01n/index.m3u8
 ATV 2
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/1280px-ATV_Austria_HD.svg.png " group-title=" ",ATV 2
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/1280px-ATV_Austria_HD.svg.png " group-title=" ",ATV 2
 http://212.18.115.193:3549/play/a01o/index.m3u8
 
 NTV FHD
-#EXTINF:1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/500px-N-tv_logo-september2017.svg.png   " group-title=" ",NTV 
+#EXTINF:-1 tvg-id="    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/500px-N-tv_logo-september2017.svg.png   " group-title=" ",NTV 
 http://212.18.115.193:3549/play/a03j/index.m3u8 
 
