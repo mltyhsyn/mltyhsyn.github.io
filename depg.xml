@@ -1,1 +1,255 @@
-
+<tv date="20220609">
+<channel id="123tv.de"><display-name>1-2-3.tv</display-name><icon src="https://i.imgur.com/slSUDNX.png"/><url>https://horizon.tv</url></channel>
+<channel id="13thStreet.de"><display-name>13th Street HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/512px-13th_street_logo_uk_master_rgb_black.png"/><url>https://horizon.tv</url></channel>
+<channel id="3sat.de"><display-name>3sat</display-name><icon src="https://i.imgur.com/EYjMgEn.png"/><url>https://horizon.tv</url></channel>
+<channel id="ANT1Satellite.gr"><display-name>Antenna TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/512px-ANT1_Greek_channel_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ARDalpha.de"><display-name>ARD-alpha</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ARTEDeutsch.de"><display-name>arte</display-name><icon src="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png"/><url>https://horizon.tv</url></channel>
+<channel id="ATVAvrupa.tr"><display-name>ATV Avrupa</display-name><icon src="https://i.imgur.com/cnVMvLC.png"/><url>https://horizon.tv</url></channel>
+<channel id="AlJazeeraEnglish.qa"><display-name>Al Jazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="Alarabiya.ae"><display-name>Al Arabiya</display-name><icon src="https://i.imgur.com/w6PhITD.png"/><url>https://horizon.tv</url></channel>
+<channel id="AstroTV.de"><display-name>Astro TV</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/19414-1.png"/><url>https://horizon.tv</url></channel>
+<channel id="BBCWorldNewsEurope.uk"><display-name>BBC World News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="BNTV.ba"><display-name>BN TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BN_Televizija_Logo.svg/512px-BN_Televizija_Logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="BRFernsehenNord.de"><display-name>BR Fernsehen Nord</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BR_Fernsehen_2016.svg/512px-BR_Fernsehen_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="BRFernsehenSud.de"><display-name>BR Fernsehen Süd</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BR_Fernsehen_2016.svg/512px-BR_Fernsehen_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="BVNEuropa.nl"><display-name>BVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="BabyTVEurope.uk"><display-name>Baby TV</display-name><icon src="https://i.imgur.com/z5E8vLR.png"/><url>https://horizon.tv</url></channel>
+<channel id="BalkanikaMusicTV.bg"><display-name>Balkanika Music Television</display-name><icon src="https://static.cinemagia.ro/img/tv_station/balkanika-tv.jpg"/><url>https://horizon.tv</url></channel>
+<channel id="BeateUhseTV.de"><display-name>Beate Uhse HD</display-name><icon src="https://i.imgur.com/mjYrP5R.png"/><url>https://horizon.tv</url></channel>
+<channel id="BibelTV.de"><display-name>Bibel TV</display-name><icon src="https://i.imgur.com/0OoMMbd.png"/><url>https://horizon.tv</url></channel>
+<channel id="Bild.de"><display-name>BILD HD</display-name><icon src="https://i.imgur.com/7MwHELu.png"/><url>https://horizon.tv</url></channel>
+<channel id="BloombergTVEurope.us"><display-name>Bloomberg</display-name><icon src="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png"/><url>https://horizon.tv</url></channel>
+<channel id="BoomerangGermany.de"><display-name>Boomerang</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="CGTNDocumentary.cn"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"/><url>https://horizon.tv</url></channel>
+<channel id="CMCTV.hr"><display-name>CMC</display-name><icon src="https://i.imgur.com/t3VQbXK.png"/><url>https://horizon.tv</url></channel>
+<channel id="CNBCEurope.uk"><display-name>CNBC</display-name><icon src="https://i.imgur.com/B6sfpDa.png"/><url>https://horizon.tv</url></channel>
+<channel id="CNNInternationalEurope.us"><display-name>CNN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="Canal24Horas.es"><display-name>24Horas</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="CartoonNetworkGermany.de"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="Channel21.de"><display-name>Channel21</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/CHANNEL21_Logo_.svg/512px-CHANNEL21_Logo_.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ChannelOneEuropa.ru"><display-name>Channel One Russia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ComedyCentralGermany.de"><display-name>COMEDY CENTRAL</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="CrimePlusInvestigationGermany.us"><display-name>Crime + Investigation</display-name><icon src="https://i.imgur.com/HHRrVkz.png"/><url>https://horizon.tv</url></channel>
+<channel id="DMAXGermany.de"><display-name>DMAX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="DMSat.rs"><display-name>DM SAT</display-name><icon src="https://i.imgur.com/2UHQHO0.png"/><url>https://horizon.tv</url></channel>
+<channel id="DasErste.de"><display-name>Das Erste</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/512px-Das_Erste_2014.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="DeluxeMusic.de"><display-name>DELUXE MUSIC</display-name><icon src="https://i.imgur.com/XWWTrKW.png"/><url>https://horizon.tv</url></channel>
+<channel id="DeutschesMusikFernsehen.de"><display-name>Deutsches Musik Fernsehen</display-name><icon src="https://i.imgur.com/wUjgEUs.jpg"/><url>https://horizon.tv</url></channel>
+<channel id="DieNeueZeitTV.ch"><display-name>DIE NEUE ZEIT TV</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/24464-1.png"/><url>https://horizon.tv</url></channel>
+<channel id="DiscoveryChannelGermany.us"><display-name>Discovery Channel HD</display-name><icon src="https://i.imgur.com/wcc34eG.png"/><url>https://horizon.tv</url></channel>
+<channel id="DisneyChannelGermany.de"><display-name>Disney HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ERTWorld.gr"><display-name>ERT World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png"/><url>https://horizon.tv</url></channel>
+<channel id="EuroD.tr"><display-name>EURO D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://horizon.tv</url></channel>
+<channel id="EuroStar.tr"><display-name>EURO STAR</display-name><icon src="https://i.imgur.com/Qbx7SBY.png"/><url>https://horizon.tv</url></channel>
+<channel id="EuronewsGerman.fr"><display-name>euronews (D)</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport1Germany.de"><display-name>Eurosport1 HD</display-name><icon src="https://i.imgur.com/z3fQ87X.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport2.fr"><display-name>EUROSPORT 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/512px-Eurosport_2_Logo_2015.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD1.fr"><display-name>Eurosport360HD 1</display-name><icon src="https://i.imgur.com/YFHXbVF.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD2.fr"><display-name>Eurosport360HD 2</display-name><icon src="https://i.imgur.com/XojEcFE.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD3.fr"><display-name>Eurosport360HD 3</display-name><icon src="https://i.imgur.com/g1s0frd.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD4.fr"><display-name>Eurosport360HD 4</display-name><icon src="https://i.imgur.com/q04IXvZ.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD5.fr"><display-name>Eurosport360HD 5</display-name><icon src="https://i.imgur.com/kwUbuYb.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD6.fr"><display-name>Eurosport360HD 6</display-name><icon src="https://i.imgur.com/gERBekR.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD7.fr"><display-name>Eurosport360HD 7</display-name><icon src="https://i.imgur.com/zSs0tNR.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD8.fr"><display-name>Eurosport360HD 8</display-name><icon src="https://i.imgur.com/LQuiFdu.png"/><url>https://horizon.tv</url></channel>
+<channel id="Eurosport360HD9.fr"><display-name>Eurosport360HD 9</display-name><icon src="https://i.imgur.com/2PQxMmE.png"/><url>https://horizon.tv</url></channel>
+<channel id="FashionTVEurope.fr"><display-name>Fashion TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="FixFoxi.de"><display-name>Fix&amp;Foxi</display-name><icon src="https://i.imgur.com/rol28nC.png"/><url>https://horizon.tv</url></channel>
+<channel id="FoxGermany.de"><display-name>Fox HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/512px-FOX-Channel-Germany.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="France2.fr"><display-name>France 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="France24English.fr"><display-name>France 24 (in English)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/><url>https://horizon.tv</url></channel>
+<channel id="France24French.fr"><display-name>France 24 (en francais)</display-name><icon src="https://i.imgur.com/61MSiq9.png"/><url>https://horizon.tv</url></channel>
+<channel id="France3.fr"><display-name>France 3</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="France4.fr"><display-name>France 4</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="France5.fr"><display-name>France 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="GeoTV.de"><display-name>GEO TV HD</display-name><icon src="https://i.imgur.com/Ii4AWYd.png"/><url>https://horizon.tv</url></channel>
+<channel id="GinxeSportsTVInternational.uk"><display-name>Ginx TV</display-name><icon src="https://rndcdn.dstv.com/dstvcms/2017/05/02/DStv_Ginx_Logo_4-3_light_background_xlrg.png"/><url>https://horizon.tv</url></channel>
+<channel id="HGTVGermany.us"><display-name>HOME &amp; GARDEN TV HD</display-name><icon src="https://i.imgur.com/87N5d8h.png"/><url>https://horizon.tv</url></channel>
+<channel id="HRFernsehen.de"><display-name>hr-fernsehen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/512px-Hr-fernsehen_Logo_2015.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="HRT1.hr"><display-name>HRT TV 1</display-name><icon src="https://i.imgur.com/W3FBVwT.png"/><url>https://horizon.tv</url></channel>
+<channel id="HSE.de"><display-name>HSE</display-name><icon src="https://i.imgur.com/IecRNCk.png"/><url>https://horizon.tv</url></channel>
+<channel id="HSEExtra.de"><display-name>HSE Extra</display-name><icon src="https://i.imgur.com/nvMpbip.png"/><url>https://horizon.tv</url></channel>
+<channel id="HSETrend.de"><display-name>HSE Trend</display-name><icon src="https://i.imgur.com/qwh2urX.png"/><url>https://horizon.tv</url></channel>
+<channel id="Haberturk.tr"><display-name>Habertürk</display-name><icon src="https://i.imgur.com/sUFh3Qr.png"/><url>https://horizon.tv</url></channel>
+<channel id="Handystar.de"><display-name>Handystar</display-name><icon src="https://www.lyngsat.com/logo/tv/hh/handystar-de.png"/><url>https://horizon.tv</url></channel>
+<channel id="Hayat.ba"><display-name>Hayat TV</display-name><icon src="https://i.imgur.com/YMh0973.png"/><url>https://horizon.tv</url></channel>
+<channel id="Heimatkanal.de"><display-name>Heimatkanal</display-name><icon src="https://i.imgur.com/fngeJ3D.png"/><url>https://horizon.tv</url></channel>
+<channel id="HistoryHDGermany.us"><display-name>The HISTORY Channel</display-name><icon src="https://ocdn.eu/ptv2-images-transforms/1/kDOktkhbG9nby1taWdyYXRlZC9oaXN0b3J5LWhkLW5pZW0ucG5nkpUCZADCw5UCACjCww"/><url>https://horizon.tv</url></channel>
+<channel id="HopeTVDeutsch.de"><display-name>HopeTV</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/24481-2.png"/><url>https://horizon.tv</url></channel>
+<channel id="ITVNEurope.pl"><display-name>itvn</display-name><icon src="https://www.lyngsat.com/logo/tv/tt/tvn_international_pl.png"/><url>https://horizon.tv</url></channel>
+<channel id="JSTV1.uk"><display-name>JSTV</display-name><icon src="https://www.lyngsat.com/logo/tv/jj/jstv_1.png"/><url>https://horizon.tv</url></channel>
+<channel id="Junior.de"><display-name>Junior</display-name><icon src="https://i.imgur.com/ARAf8VR.png"/><url>https://horizon.tv</url></channel>
+<channel id="Juwelo.de"><display-name>Juwelo</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/24491-2.png"/><url>https://horizon.tv</url></channel>
+<channel id="KIKA.de"><display-name>KIKA</display-name><icon src="https://i.imgur.com/oqj2Uil.png"/><url>https://horizon.tv</url></channel>
+<channel id="KTV.at"><display-name>k-tv</display-name><icon src="https://i.imgur.com/OyOPRtq.png"/><url>https://horizon.tv</url></channel>
+<channel id="Kanal7.tr"><display-name>Kanal 7</display-name><icon src="https://i.imgur.com/pxpLpnH.png"/><url>https://horizon.tv</url></channel>
+<channel id="KinoweltTV.de"><display-name>Kinowelt TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kinowelt_TV_Logo_2020.svg/512px-Kinowelt_TV_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="KlanKosova.rs"><display-name>Klan Kosova</display-name><icon src="https://i.imgur.com/pQjSsNQ.png"/><url>https://horizon.tv</url></channel>
+<channel id="Kohavision.rs"><display-name>Kohavision TV</display-name><icon src="https://i.imgur.com/SqrucbG.png"/><url>https://horizon.tv</url></channel>
+<channel id="LustPur.de"><display-name>Lust Pur</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lust_Pur_TV_Logo.svg/512px-Lust_Pur_TV_Logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="MBC1.ae"><display-name>MBC Maghreb al Arabia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png"/><url>https://horizon.tv</url></channel>
+<channel id="MDRFernsehenSachsen.de"><display-name>MDR Sachsen</display-name><icon src="https://i.imgur.com/ouxQIBc.png"/><url>https://horizon.tv</url></channel>
+<channel id="MDRFernsehenSachsenAnhalt.de"><display-name>MDR S-Anhalt</display-name><icon src="https://tvheute.at/images/channels/MDR--953349571-01.png"/><url>https://horizon.tv</url></channel>
+<channel id="MDRFernsehenThuringen.de"><display-name>MDR Thüringen HD</display-name><icon src="https://www.lyngsat.com/logo/tv/mm/mdr_fernsehen_thuringen.png"/><url>https://horizon.tv</url></channel>
+<channel id="MTVGermany.de"><display-name>MTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="MediasetItalia.it"><display-name>Mediaset</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Mediaset_Italia.PNG/512px-Mediaset_Italia.PNG"/><url>https://horizon.tv</url></channel>
+<channel id="MotorvisionTV.de"><display-name>Motorvision</display-name><icon src="https://i.imgur.com/QDZrBDi.png"/><url>https://horizon.tv</url></channel>
+<channel id="N24Doku.de"><display-name>N24 Doku</display-name><icon src="https://i.imgur.com/tqsIACJ.png"/><url>https://horizon.tv</url></channel>
+<channel id="NDRFernsehenHamburg.de"><display-name>NDR FS HH</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NDRFernsehenMecklenburgVorpommern.de"><display-name>NDR FS MV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NDRFernsehenNiedersachsen.de"><display-name>NDR FS NDS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NDRFernsehenSchleswigHolstein.de"><display-name>NDR FS SH</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NPO2.nl"><display-name>Nederland 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/512px-NPO_2_logo_2014.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NRWision.de"><display-name>NRWision HD</display-name><icon src="https://i.imgur.com/RkF2Kmx.png"/><url>https://horizon.tv</url></channel>
+<channel id="NTVMir.ru"><display-name>NTV Mir</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/512px-NTV_logo_2003.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NashKinomir.de"><display-name>Nasch Kinomir</display-name><icon src="https://i.imgur.com/biBOVaM.png"/><url>https://horizon.tv</url></channel>
+<channel id="NationalGeographicGermany.us"><display-name>NatGeo HD</display-name><icon src="https://i.imgur.com/hK727rq.png"/><url>https://horizon.tv</url></channel>
+<channel id="NationalGeographicWildGermany.us"><display-name>National Geographic Wild HD</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/23021-2.png"/><url>https://horizon.tv</url></channel>
+<channel id="NickGermany.de"><display-name>Nick HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NickJrGermany.de"><display-name>Nick.Jr.</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="NitroGermany.de"><display-name>Nitro</display-name><icon src="https://ocdn.eu/ptv2-images-transforms/1/VGnkrdsb2dvLW1pZ3JhdGVkL25pdHJvLmpwZ5KVAmQAwsOVAgAowsM"/><url>https://horizon.tv</url></channel>
+<channel id="One.de"><display-name>ONE HD</display-name><icon src="https://i.imgur.com/U1D7l6K.png"/><url>https://horizon.tv</url></channel>
+<channel id="OstWest.de"><display-name>OstWest</display-name><icon src="https://i.imgur.com/VweZQao.png"/><url>https://horizon.tv</url></channel>
+<channel id="Phoenix.de"><display-name>phoenix</display-name><icon src="https://i.imgur.com/T1532t9.png"/><url>https://horizon.tv</url></channel>
+<channel id="PinkExtra.rs"><display-name>Pink Extra</display-name><icon src="https://i.imgur.com/jPEcmDx.png"/><url>https://horizon.tv</url></channel>
+<channel id="PinkFilm.rs"><display-name>Pink Film</display-name><icon src="https://i.imgur.com/9KXNrqj.png"/><url>https://horizon.tv</url></channel>
+<channel id="PinkFolk1.rs"><display-name>Pink FOLK</display-name><icon src="https://i.imgur.com/oqHJoRC.png"/><url>https://horizon.tv</url></channel>
+<channel id="PinkMusic.rs"><display-name>Pink Music</display-name><icon src="https://mts.rs/oec/images/tv_channels/55e42ca85044b8738914396d92aaa52d.png"/><url>https://horizon.tv</url></channel>
+<channel id="PinkPlus.rs"><display-name>Pink Plus</display-name><icon src="https://i.imgur.com/wtXF4O4.png"/><url>https://horizon.tv</url></channel>
+<channel id="ProSiebenFun.de"><display-name>ProSieben FUN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ProSieben_FUN_Logo_2021.svg/512px-ProSieben_FUN_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ProSiebenGermany.de"><display-name>ProSieben HD</display-name><icon src="https://proxymedia.woopic.com/api/v1/images/553%2Flogos%2Fv2%2Flogos%2Flivetv_prosieben%2F20191209_150852%2FwebTVLogo%2Flogo_180x96.png"/><url>https://horizon.tv</url></channel>
+<channel id="ProSiebenMaxxGermany.de"><display-name>ProSieben MAXX</display-name><icon src="https://i.imgur.com/wyGRcDI.png"/><url>https://horizon.tv</url></channel>
+<channel id="ProTVInternational.ro"><display-name>Pro TV International</display-name><icon src="https://www.meo.pt/PublishingImages/canais/pro-tv-internacional.png"/><url>https://horizon.tv</url></channel>
+<channel id="QVCGermany.de"><display-name>QVC</display-name><icon src="https://i.imgur.com/6TWUVrh.png"/><url>https://horizon.tv</url></channel>
+<channel id="QVCStyleGermany.de"><display-name>QVC Style</display-name><icon src="https://i.imgur.com/p4otkdC.png"/><url>https://horizon.tv</url></channel>
+<channel id="QVCZwei.de"><display-name>QVC ZWEI</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/24533-2.png"/><url>https://horizon.tv</url></channel>
+<channel id="QazaqTV.kz"><display-name>KAZAKH TV</display-name><icon src="https://i.imgur.com/k5iuvE7.png"/><url>https://horizon.tv</url></channel>
+<channel id="RBBBerlin.de"><display-name>rbb Berlin</display-name><icon src="https://i.imgur.com/1h6Kfli.png"/><url>https://horizon.tv</url></channel>
+<channel id="RBBBrandenburg.de"><display-name>rbb Brandenburg</display-name><icon src="https://i.imgur.com/6GqnytC.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTK1.xk"><display-name>RTK1</display-name><icon src="https://i.imgur.com/KTcWcO6.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTLCrimeGermany.de"><display-name>RTL Crime HD</display-name><icon src="https://i.imgur.com/WC2MCib.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTLGermany.de"><display-name>RTL</display-name><icon src="https://static.cinemagia.ro/img/tv_station/rtl.jpg"/><url>https://horizon.tv</url></channel>
+<channel id="RTLLivingGermany.de"><display-name>RTL Living HD</display-name><icon src="https://i.imgur.com/XbH7bu3.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTLUp.de"><display-name>RTLup</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTLup_Logo_2021.svg/512px-RTLup_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTLZweiGermany.de"><display-name>RTLZWEI</display-name><icon src="https://static.cinemagia.ro/img/tv_station/rtl-zwei.jpg"/><url>https://horizon.tv</url></channel>
+<channel id="RTNews.ru"><display-name>Russia Today</display-name><icon src="https://i.imgur.com/tyXIHlj.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTPInternacionalEuropa.pt"><display-name>RTPi</display-name><icon src="https://rndcdn.dstv.com/dstvcms/2018/07/04/RTP_logo_4-3_lightbackground_xlrg.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTRPlaneta.ru"><display-name>RTR Planeta</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTSSvet.rs"><display-name>RTS Sat</display-name><icon src="https://i.imgur.com/LjunOdy.png"/><url>https://horizon.tv</url></channel>
+<channel id="RTV21HD.xk"><display-name>RTV21</display-name><icon src="https://i.imgur.com/tFoeaRe.png"/><url>https://horizon.tv</url></channel>
+<channel id="RadioBremenFernsehen.de"><display-name>Radio Bremen TV</display-name><icon src="https://www.lyngsat.com/logo/tv/rr/rb_radio_bremen_tv.png"/><url>https://horizon.tv</url></channel>
+<channel id="Rai1.it"><display-name>Rai Uno</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="Rai2.it"><display-name>Rai Due</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="Rai3.it"><display-name>Rai Tre</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="RaiNews24.it"><display-name>Rai News 24</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/512px-Rai_News_24_logo_%282022%29.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="RaiStoria.it"><display-name>Rai Storia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="RecordTVEuropa.pt"><display-name>Record Internacional</display-name><icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png"/><url>https://horizon.tv</url></channel>
+<channel id="RiC.de"><display-name>RiC</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/24540-1.png"/><url>https://horizon.tv</url></channel>
+<channel id="RomanceTVGermany.de"><display-name>Romance TV</display-name><icon src="https://i.imgur.com/Un2uZjz.png"/><url>https://horizon.tv</url></channel>
+<channel id="SBNInternational.us"><display-name>SonLife</display-name><icon src="https://i.imgur.com/NJu6oYB.png"/><url>https://horizon.tv</url></channel>
+<channel id="SRFernsehen.de"><display-name>SR Fernsehen HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SWRFernsehenBadenWurttemberg.de"><display-name>SWR BW HD</display-name><icon src="https://i.imgur.com/B6JaC4b.png"/><url>https://horizon.tv</url></channel>
+<channel id="SWRFernsehenRheinlandPfalz.de"><display-name>SWR Fernsehen RP</display-name><icon src="https://www.lyngsat.com/logo/tv/ss/swr_de_fernsehen_rp.png"/><url>https://horizon.tv</url></channel>
+<channel id="Sat1Emotions.de"><display-name>SAT.1 emotions</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAT.1_emotions_Logo_2019.png/512px-SAT.1_emotions_Logo_2019.png"/><url>https://horizon.tv</url></channel>
+<channel id="Sat1Germany.de"><display-name>SAT.1</display-name><icon src="https://i.imgur.com/2H4QEGm.png"/><url>https://horizon.tv</url></channel>
+<channel id="Sat1GoldGermany.de"><display-name>SAT.1 GOLD</display-name><icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sat1gold.png"/><url>https://horizon.tv</url></channel>
+<channel id="ServusTVGermany.at"><display-name>ServusTV</display-name><icon src="https://cdn.hd-plus.de/senderlogos/bright-cropped/20210-2.png"/><url>https://horizon.tv</url></channel>
+<channel id="ShowMax.tr"><display-name>Show Max</display-name><icon src="https://i.imgur.com/V7KSKHW.png"/><url>https://horizon.tv</url></channel>
+<channel id="ShowTurk.tr"><display-name>SHOW TURK</display-name><icon src="https://www.lyngsat.com/logo/tv/ss/show_turk.png"/><url>https://horizon.tv</url></channel>
+<channel id="SilverlineMovieChannel.de"><display-name>Silverline Movie Channel</display-name><icon src="https://i.imgur.com/HCSpJgw.png"/><url>https://horizon.tv</url></channel>
+<channel id="SixxGermany.de"><display-name>SIXX</display-name><icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sixx.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyAtlantic.de"><display-name>Sky Atlantic HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaActionHD.de"><display-name>Sky Cinema Action HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sky_Cinema_Action_HD_DE_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaBestOfHD.de"><display-name>Sky Cinema Best Of HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/27/Sky_Cinema_Best_Of_HD_DE_2020_Logo.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaClassics.de"><display-name>Sky Cinema Classics</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sky_Cinema_Classics_DE_Logo_2020.svg/512px-Sky_Cinema_Classics_DE_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaFamily.de"><display-name>Sky Cinema Family</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/512px-Sky_Cinema_Family_-_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaFun.de"><display-name>Sky Cinema Fun</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sky_Cinema_Fun_DE_Logo_2020.svg/512px-Sky_Cinema_Fun_DE_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaPremierenHD.de"><display-name>Sky Cinema Premieren HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/40/Sky_Cinema_Premieren_HD_2020_DE_Logo.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaPremierenPlus24.de"><display-name>Sky Cinema Premieren +24</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/42/Sky_Cinema_Premieren_%2B24_DE_2020_Logo.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaSpecial.de"><display-name>Sky Cinema Special HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/512px-Sky_Cinema_Special_DE_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCinemaThriller.de"><display-name>Sky Cinema Thriller HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/512px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyComedy.de"><display-name>Sky Comedy HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sky_Comedy_2020.png/512px-Sky_Comedy_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyCrime.de"><display-name>Sky Crime HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Sky_Crime_2020.png/512px-Sky_Crime_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyDocumentaries.de"><display-name>Sky Documentaries HD</display-name><icon src="https://i.imgur.com/WZVLRoz.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyKrimi.de"><display-name>Sky Krimi HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/512px-Sky_Krimi_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyNature.de"><display-name>Sky Nature HD</display-name><icon src="https://i.imgur.com/NWKIfXy.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyOne.de"><display-name>Sky One HD</display-name><icon src="https://i.imgur.com/pydAztJ.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkyReplay.de"><display-name>Sky Replay HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/512px-Sky_Replay_DE_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySerienShows.de"><display-name>Sky Serien &amp; Shows HD</display-name><icon src="https://i.imgur.com/MSrPWLn.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport10HD.de"><display-name>Sky Sport 10 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_10_HD_Logo_2020.png/512px-Sky_Sport_10_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport11HD.de"><display-name>Sky Sport 11 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/4/47/Sky_Sport_11_HD_Logo_2020.png/512px-Sky_Sport_11_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport1HD.de"><display-name>Sky Sport 1 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/c/c5/Sky_Sport_1_HD_-_Logo_2020.png/512px-Sky_Sport_1_HD_-_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport2HD.de"><display-name>Sky Sport 2 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/a/ab/Sky_Sport_2_HD_-_Logo_2020.png/512px-Sky_Sport_2_HD_-_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport3HD.de"><display-name>Sky Sport 3 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/1/1d/Sky_Sport_3_HD_-_Logo_2020.png/512px-Sky_Sport_3_HD_-_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport4HD.de"><display-name>Sky Sport 4 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/2/2a/Sky_Sport_4_HD_Logo_2020.png/512px-Sky_Sport_4_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport5HD.de"><display-name>Sky Sport 5 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/5/58/Sky_Sport_5_HD_Logo_2020.png/512px-Sky_Sport_5_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport6HD.de"><display-name>Sky Sport 6 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Sky_Sport_6_HD_Logo_2020.png/512px-Sky_Sport_6_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport7HD.de"><display-name>Sky Sport 7 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/0/04/Sky_Sport_7_HD_Logo_2020.png/512px-Sky_Sport_7_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport8HD.de"><display-name>Sky Sport 8 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/a/a9/Sky_Sport_8_HD_Logo_2020.png/512px-Sky_Sport_8_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySport9HD.de"><display-name>Sky Sport 9 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/a/a1/Sky_Sport_9_HD_Logo_2020.png/512px-Sky_Sport_9_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga10HD.de"><display-name>Sky Sport Bundesliga 10 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sky_Sport_Bundesliga_10_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_10_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga1HD.de"><display-name>Sky Sport Bundesliga 1 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_1_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga2HD.de"><display-name>Sky Sport Bundesliga 2 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sky_Sport_Bundesliga_2_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_2_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga3HD.de"><display-name>Sky Sport Bundesliga 3 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Bundesliga_3_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_3_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga4HD.de"><display-name>Sky Sport Bundesliga 4 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Sport_Bundesliga_4_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_4_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga5HD.de"><display-name>Sky Sport Bundesliga 5 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sky_Sport_Bundesliga_5_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_5_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga6HD.de"><display-name>Sky Sport Bundesliga 6 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sky_Sport_Bundesliga_6_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_6_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga7HD.de"><display-name>Sky Sport Bundesliga 7 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_Bundesliga_7_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_7_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga8HD.de"><display-name>Sky Sport Bundesliga 8 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Bundesliga_8_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_8_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportBundesliga9HD.de"><display-name>Sky Sport Bundesliga 9 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sport_Bundesliga_9_HD_Logo_2020.png/512px-Sky_Sport_Bundesliga_9_HD_Logo_2020.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportF1.de"><display-name>Sky Sport F1 HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SkySportNews.de"><display-name>Sky Sport News HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/512px-Sky_Sport_News_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SonnenklarTV.de"><display-name>sonnenklar.TV</display-name><icon src="https://i.imgur.com/MjnsOuh.png"/><url>https://horizon.tv</url></channel>
+<channel id="SonyAXN.de"><display-name>SONY AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sony_AXN_2019.png/512px-Sony_AXN_2019.png"/><url>https://horizon.tv</url></channel>
+<channel id="SonyChannelGermany.us"><display-name>SONY CHANNEL HD</display-name><icon src="https://i.imgur.com/aRXH5Aa.png"/><url>https://horizon.tv</url></channel>
+<channel id="SpiegelGeschichte.de"><display-name>Spiegel Geschichte</display-name><icon src="https://i.imgur.com/2hLVHqd.png"/><url>https://horizon.tv</url></channel>
+<channel id="SpiegelTVWissen.de"><display-name>Spiegel TV Wissen HD</display-name><icon src="https://i.imgur.com/upTRYs0.png"/><url>https://horizon.tv</url></channel>
+<channel id="Sport1.de"><display-name>Sport1 HD</display-name><icon src="https://i.imgur.com/Tsjt7v9.png"/><url>https://horizon.tv</url></channel>
+<channel id="Sport1Plus.de"><display-name>Sport1+</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_Sport1%2B_2013.svg/512px-Logo_Sport1%2B_2013.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="SportdigitalFussball.de"><display-name>SPORTDIGITAL FUSSBALL</display-name><icon src="https://i.imgur.com/QHSi3uE.png"/><url>https://horizon.tv</url></channel>
+<channel id="SuperRTLGermany.de"><display-name>Super RTL</display-name><icon src="https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/145340.png"/><url>https://horizon.tv</url></channel>
+<channel id="SyfyGermany.us"><display-name>SYFY HD</display-name><icon src="https://ocdn.eu/ptv2-images-transforms/1/JG_krZsb2dvLW1pZ3JhdGVkL3N5ZnkucG5nkpUCZADCw5UCACjCww"/><url>https://horizon.tv</url></channel>
+<channel id="TLCGermany.de"><display-name>TLC</display-name><icon src="https://i.imgur.com/h8DNNxH.png"/><url>https://horizon.tv</url></channel>
+<channel id="TRTTurk.tr"><display-name>TRT Türk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="TV5MondeEurope.fr"><display-name>TV5MONDE Europe</display-name><icon src="https://i.imgur.com/mwHtXya.jpg"/><url>https://horizon.tv</url></channel>
+<channel id="TV8.tr"><display-name>TV 8</display-name><icon src="https://i.imgur.com/DKNwiDm.png"/><url>https://horizon.tv</url></channel>
+<channel id="TVCGSat.me"><display-name>TV Crne Gore Sat</display-name><icon src="https://i.imgur.com/jozQP6Z.png"/><url>https://horizon.tv</url></channel>
+<channel id="TVEInternacionalEuropeAsia.es"><display-name>TVE Internacional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/512px-Logo_TVE-Internacional.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="TVN24.pl"><display-name>TVN 24</display-name><icon src="https://i.imgur.com/zATBgL6.png"/><url>https://horizon.tv</url></channel>
+<channel id="TVPPolonia.pl"><display-name>TV Polonia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="TVS.pl"><display-name>iTVS</display-name><icon src="https://i.imgur.com/rh4qLLz.png"/><url>https://horizon.tv</url></channel>
+<channel id="Tele5.de"><display-name>Tele 5</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/512px-Tele_5_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="TelebomTeledom.de"><display-name>Telebom / Tele Dom</display-name><icon src="https://i.imgur.com/ccUigTz.png"/><url>https://horizon.tv</url></channel>
+<channel id="ToggoPlus.de"><display-name>TOGGO plus</display-name><icon src="https://i.imgur.com/JUbwmn7.png"/><url>https://horizon.tv</url></channel>
+<channel id="UniversalTVGermany.us"><display-name>Universal TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="VodafoneTV.de"><display-name>Vodafone TV</display-name><icon src="https://i.imgur.com/Glp6rbe.png"/><url>https://horizon.tv</url></channel>
+<channel id="VoxGermany.de"><display-name>VOX</display-name><icon src="https://i.imgur.com/Am30qwp.png"/><url>https://horizon.tv</url></channel>
+<channel id="Voxup.de"><display-name>VOXup</display-name><icon src="https://i.imgur.com/9C45EKV.png"/><url>https://horizon.tv</url></channel>
+<channel id="WDRFernsehenAachen.de"><display-name>WDR Aachen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="WDRFernsehenBonn.de"><display-name>WDR Bonn</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="WDRFernsehenKoln.de"><display-name>WDR Köln HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="WarnerTVComedy.de"><display-name>Warner TV Comedy HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WarnerTV_Comedy_Logo_2021.svg/512px-WarnerTV_Comedy_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="WarnerTVFilm.de"><display-name>Warner TV Film</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WarnerTV_Film_Logo_2021.svg/512px-WarnerTV_Film_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="WarnerTVSerie.de"><display-name>Warner TV Serie</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/512px-WarnerTV_Serie_Logo_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="Welt.de"><display-name>WELT</display-name><icon src="https://i.imgur.com/s4TZoxx.png"/><url>https://horizon.tv</url></channel>
+<channel id="ZDF.de"><display-name>ZDF</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ZDFinfo.de"><display-name>ZDFinfo HD</display-name><icon src="https://i.imgur.com/vtq1IWp.png"/><url>https://horizon.tv</url></channel>
+<channel id="ZDFneo.de"><display-name>zdf_neo</display-name><icon src="https://i.imgur.com/1JIIGgL.png"/><url>https://horizon.tv</url></channel>
+<channel id="eSports1.de"><display-name>eSPORTS1 HD</display-name><icon src="https://i.imgur.com/NoQ4Q6v.png"/><url>https://horizon.tv</url></channel>
+<channel id="kabeleins.de"><display-name>Kabel eins HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/512px-Kabel_eins_Logo_2015.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="kabeleinsDoku.de"><display-name>kabel eins Doku</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/512px-Kabel_eins_Doku_Logo_2016.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="kabeleinsclassics.de"><display-name>kabel eins classics</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/512px-Kabel_Eins_Classics_2021.svg.png"/><url>https://horizon.tv</url></channel>
+<channel id="ntv.de"><display-name>ntv</display-name><icon src="https://i.imgur.com/tUSXrVm.png"/><url>https://horizon.tv</url></channel>
+<channel id="tagesschau24.de"><display-name>tagesschau24 HD</display-name><icon src="https://i.imgur.com/H5Z50MB.png"/><url>https://horizon.tv</url></channel>
+<programme start="20220608210000 +0000" stop="20220608220000 +0000" channel="123tv.de"><title lang="de">MEKO MELO</title></programme>
+<programme start="20220608220000 +0000" stop="20220608230000 +0000" channel="123tv.de"><title lang="de">Schmuckschätze</title></programme>
+<programme start="20220608230000 +0000" stop="20220609000000 +0000" channel="123tv.de"><title lang="de">Schmuckschätze</title></programme>
+<programme start="20220609000000 +0000" stop="20220609010000 +0000" channel="123tv.de"><title lang="de">Night Deals – Schmuck &amp; Juwelen</title></programme>
+<programme start="20220609010000 +0000" stop="20220609020000 +0000" channel="123tv.de"><title lang="de">Night Deals – Schmuck &amp; Juwelen</title></programme>
+<programme start="20220609020000 +0000" stop="20220609030000 +0000" channel="123tv.de"><title lang="de">Night Deals – Schmuck &amp; Juwelen</title></programme>
+<programme start="20220609030000 +0000" stop="20220609040000 +0000" channel="123tv.de"><title lang="de">1-2-3.tv Morning-Deals</title></programme>
+<programme start="20220609030000 +0000" stop="20220609040000 +0000" channel="123tv.de"><title lang="de">1-2-3.tv Morning-Deals</title></programme>
+<programme start="20220609040000 +0000" stop="20220609050000 +0000" channel="123tv.de"><title lang="de">1-2-3.tv Morning-Deals</title></programme>
