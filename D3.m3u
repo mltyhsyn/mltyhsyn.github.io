@@ -114,10 +114,77 @@ PHOENİX
 #EXTINF:-1 tvg-id=" Phoenix.de " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/500px-Phoenix-logo-2018.svg.png" group-title=" ",phoenix 
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
-
 DW 
 #EXTINF:-1 tvg-id="           " tvg-language="Deutsch" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title=" ",DW  
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+
+
+
+
+
+Sat 1 
+#EXTINF:-1 tvg-id="   Sat1Germany.de   " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/1280px-Neues_Sat._1_Logo_transparent.png  " group-title=" ",SAT 1 
+http://212.18.115.193:3549/play/a00d/index.m3u8
+
+
+SAT 1 GOLD
+#EXTINF:-1 tvg-id="     Sat1GoldGermany.de      " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
+http://212.18.115.193:3549/play/a00x/index.m3u8 
+
+SAT 1 GOLD HD
+#EXTINF:-1 tvg-id="   Sat1GoldGermany.de     " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD HD 
+http://212.18.115.193:3549/play/a00y/index.m3u8 
+
+NITRO 
+#EXTINF:-1 tvg-id="     NitroGermany.de      " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ",NITRO
+http://212.18.115.193:3549/play/a016/index.m3u8 
+
+ONE 
+#EXTINF:-1 tvg-id="     One.de    " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title=" ",One 
+http://212.18.115.193:3549/play/a01a/index.m3u8 
+
+One ARD
+#EXTINF:-1 tvg-id="      One.de      " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/400px-ARD_Logo_2019.svg.png  " group-title=" ",ARD one 
+http://212.18.115.193:3549/play/a00m/index.m3u8 
+
+Kabel Eins 
+#EXTINF:-1 tvg-id="       kabeleins.de           " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/500px-Kabel_eins_Logo_2015.svg.png " group-title=" ",KABEL EINS
+http://212.18.115.193:3549/play/a00j/index.m3u8 
+
+KABEL EINS CLASSICS
+#EXTINF:-1,tvg-id="       kabeleinsclassics.de        " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/500px-Kabel_Eins_Classics_2021.svg.png " group-title=" ", KABELEINSCLASSICS 
+http://185.234.217.21:8006/play/a02d/index.m3u8 
+
+Kabel Eins Doku 
+#EXTINF:-1 tvg-id="     kabeleinsDoku.de            " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/1280px-Kabel_eins_Doku_Logo_2016.svg.png " group-title=" ",Kabel Eins Doku 
+http://185.234.217.21:8005/play/a029/index.m3u8 
+
+ProSieben 
+#EXTINF:-1 tvg-id="    ProSiebenGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/180px-ProSieben_Logo_2015.svg.png  " group-title=" ",ProSieben 
+http://212.18.115.193:3549/play/a00h/index.m3u8 
+
+Pro7 MAXX 
+#EXTINF:-1 tvg-id="     ProSiebenMaxxGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/500px-ProSieben_MAXX_Logo.svg.png " group-title=" ",Pro7 MAXX
+http://212.18.115.193:3549/play/a010/index.m3u8 
+
+RTL 2 
+#EXTINF:-1 tvg-id="   RTLZweiGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/500px-RTLZWEI_Logo_2019.svg.png  " group-title=" ",RTL II 
+http://212.18.115.193:3549/play/a00b/index.m3u8 
+
+RTL 
+#EXTINF:-1 tvg-id="   RTLGermany.de     " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/500px-RTL_Logo_2021.svg.png " group-title=" ",RTL 
+http://212.18.115.193:3549/play/a009/index.m3u8 
+
+Nitro (rtl)
+#EXTINF:-1 tvg-id="   NitroGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ", RTL nitro 
+http://212.18.115.193:3549/play/a00o/index.m3u8 
+
+SIXX 
+#EXTINF:-1 tvg-id="    SixxGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/500px-Sixx_Logo.svg.png  " group-title=" ",SIXX 
+http://212.18.115.193:3549/play/a00f/index.m3u8 
+
+
+
 
 
 
