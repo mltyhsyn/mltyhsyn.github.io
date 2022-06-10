@@ -1,8 +1,7 @@
 #EXTM3U 
 
-
 ZDF NEO
-#EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
+#EXTINF:1 tvg-id="    ZDFneo.de   " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title=" ",Zdf neo 
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8 
 
 KIKA 
