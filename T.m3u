@@ -172,14 +172,6 @@ DİYANET TV
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png" group-title=" ",Diyanet TV 
 http://46.31.146.187:44300/play/a02n/index.m3u8 
 
-#EXTINF:-1,MELTEM TV
-#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-language="Turkish" tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/e/e3/Meltem_TV_logosu.png   " group-title=" ",MELTEM TV 
-http://46.31.146.187:44300/play/a003/index.m3u8 
-
-YILDIZ TV 
-#EXTINF:-1 tvg-id="   " tvg-language="Turkish" tvg-logo="        https://png.pngtree.com/png-clipart/20210324/ourlarge/pngtree-musical-note-3d-element-png-image_3113569.jpg          " group-title=" ",YILDIZ TV 
-http://46.31.146.187:44300/play/a02p/index.m3u8
-
 
 BEYAZ MEDYA TV 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3deef4f3-88e1-42ca-b8e8-325ebbe8bcb8.png" group-title=" ",Müzik
@@ -189,8 +181,9 @@ https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3deef4f3-88e1-42ca-b8e8-325ebbe8bcb8.png" group-title=" ",Yeşilçam
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 
-
-
+MELTEM TV
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-language="Turkish" tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/e/e3/Meltem_TV_logosu.png   " group-title=" ",MELTEM TV 
+http://46.31.146.187:44300/play/a003/index.m3u8 
 
 BEIN MOVIES STARS 
 #EXTINF:-1 tvg-id="    beinmoviesstars.tr    " tvg-name="BEIN MOVIES STARS FHD (6)" group-title="      " tvg-logo="   https://file.wikipediam.org/wikipedia/commons/e/ed/Bein_movies.png    ",STARS 
