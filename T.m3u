@@ -31,6 +31,7 @@ http://46.31.146.187:44300/play/a023/index.m3u8
 
 TRT MÜZİK 
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/032bc15f-bc31-44c2-9049-27a0ddc0ecd0.png" group-title=" ",TRT MÜZİK 
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8 
 http://46.31.146.187:44300/play/a028/index.m3u8 
 
@@ -74,6 +75,7 @@ http://89.36.94.102:8008/a/willene/live/248348677.ts?n=1&b=5&vavoo_auth=eyJkYXRh
 
 ATV 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="  ",atv 
+http://46.29.169.27:8000/play/a01m 
 https://trkvz-live.daioncdn.net/atv/atv.m3u8 
 http://213.183.47.50:2085/play/aa004/index.m3u8 
 http://46.31.146.187:44300/play/a01s/index.m3u8 
