@@ -84,7 +84,7 @@ http://213.183.47.50:2085/play/a00t/index.m3u8
 
 FOX TV 
 #EXTINF:-1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title=" ",Fox 
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8 
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8  
 http://213.183.47.50:2085/play/aa002/index.m3u8 
 http://46.31.146.187:44300/play/a00x/index.m3u8 
 
@@ -96,6 +96,7 @@ http://46.31.146.187:44300/play/a01m/index.m3u8
 
 SHOW MAX 
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5ad3514d-c4b3-4311-8e3c-9d3ebba4d5f0.png" group-title=" ",Show Max 
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8 
 http://46.31.146.187:44300/play/a01p/index.m3u8 
 
 SHOW TÜRK 
@@ -127,7 +128,7 @@ http://46.31.146.187:44300/play/a002/index.m3u8
 
 TV8 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title=" ",TV8
-http://213.183.47.50:2085/play/a00v/index.m3u8 
+http://213.183.47.50:2085/play/a00v/index.m3u8
 
 TV8.5 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8f3e4926-7cbd-47fb-9015-b4040a91b311.png" group-title=" ",TV8.5 
@@ -152,6 +153,7 @@ http://46.31.146.187:44300/play/a00d/index.m3u8
 
 KRT TV 
 #EXTINF:-1 tvg-id="KRT.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title=" ",KRT TV 
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8 
 https://mn-nl.mncdn.com/blutv_krt/live.m3u8 
 http://46.31.146.187:44300/play/a00u/index.m3u8 
 
@@ -200,7 +202,7 @@ http://46.31.146.187:44300/play/a049/index.m3u8
 
 DİYANET TV 
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png" group-title=" ",Diyanet TV 
-
+https://mn-nl.mncdn.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8 
 http://46.31.146.187:44300/play/a02n/index.m3u8 
 
 
