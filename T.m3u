@@ -149,6 +149,7 @@ http://46.31.146.187:44300/play/a01l/index.m3u8
 
 HABERTÜRK 
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ff198a17-f1ca-44d8-813e-3c7f1e3dcd92.png" group-title=" ",Habertürk 
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8 
 https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8 
 http://46.31.146.187:44300/play/a01n/index.m3u8 
 
