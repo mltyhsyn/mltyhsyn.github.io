@@ -192,6 +192,7 @@ http://46.31.146.187:44300/play/a02b/index.m3u8
 
 NTV 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" group-title=" ",NTV 
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8 
 https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8 
 http://46.31.146.187:44300/play/a02l/index.m3u8 
 
