@@ -112,6 +112,7 @@ http://46.31.146.187:44300/play/a00x/index.m3u8
 
 SHOW TV 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title=" ",Show 
+https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8  
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8 
 http://213.183.47.50:2085/play/aa006/index.m3u8 
 http://46.31.146.187:44300/play/a01m/index.m3u8 
@@ -123,11 +124,13 @@ http://46.31.146.187:44300/play/a01p/index.m3u8
 
 SHOW TÜRK 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" group-title=" ",Show Türk 
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8 
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8 
 http://46.31.146.187:44300/play/a03x/index.m3u8 
 
 STAR TV 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title=" ",Star 
+https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8 
 http://213.183.47.50:2085/play/a00s/index.m3u8 
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8  
 http://46.31.146.187:44300/play/a02k/index.m3u8 
@@ -141,6 +144,7 @@ http://46.31.146.187:44300/play/a01k/index.m3u8
 
 KANAL 7 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title=" ",Kanal 7 
+https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8 
 http://213.183.47.50:2085/play/a005/index.m3u8 
 
@@ -158,23 +162,27 @@ http://46.29.169.27:8000/play/a01s
 
 TV8.5 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8f3e4926-7cbd-47fb-9015-b4040a91b311.png" group-title=" ",TV8.5 
+https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8 
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8 
 http://213.183.47.50:2085/play/a00u/index.m3u8 
 http://46.31.146.187:44300/play/a041/index.m3u8
 
 CNN TÜRK 
 #EXTINF:-1 tvg-id="CNNTurk.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cfaf8ef9-70b3-4524-bb96-ff4a817e8c78.png" group-title=" ",CNN Türk 
+https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8 
 https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8 
 http://46.31.146.187:44300/play/a01l/index.m3u8 
 
 HABERTÜRK 
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ff198a17-f1ca-44d8-813e-3c7f1e3dcd92.png" group-title=" ",Habertürk 
+https://haberturk.blutv.com/blutv_haberturk_live/live_720p2000000kbps/index.m3u8 
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8 
 https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8 
 http://46.31.146.187:44300/play/a01n/index.m3u8 
 
 HALK TV 
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6fa0122a-ab6e-4236-9a2d-968815a1418f.png" group-title=" ",Halk TV 
+https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8 
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8 
 http://46.31.146.187:44300/play/a00d/index.m3u8 
