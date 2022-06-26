@@ -41,3 +41,115 @@ TRT KURDI
 #EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TRT_Radyo_Kurd%C3%AE_logo.svg/440px-TRT_Radyo_Kurd%C3%AE_logo.svg.png   " group-title=" ", TRT KURDI 
 https://radio-trtradyo6.live.trt.com.tr/master_128.m3u8 
 
+METROPOL FM BERLIN 
+#EXTINF:0 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title=" ", Metropol FM BERLİN 
+https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac 
+
+ISTANBUL FM
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/a/ac/Istanbulfm.jpg/125px-Istanbulfm.jpg   " group-title=" ", İstanbul Fm
+https://stream2.rtvtakip.com:7000/stream?icy=http
+
+JOY TURK 
+#EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/6/61/JoyTurk_logosu.png/160px-JoyTurk_logosu.png   " group-title=" ", JOY TURK 
+https://22183.live.streamtheworld.com/JOY_TURKAAC.aac?ttag=vehicle&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=a5b71526-3fb9-41d1-bd9c-0b938d3520d8 
+
+ALEM FM
+#EXTINF:-0 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/b/bf/Alem_fm.jpg/220px-Alem_fm.jpg " group-title=" ", Alem Fm 
+https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8 
+
+SHOW RADYO
+#EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg  " group-title=" ", SHOW RADYO
+https://moondigitalmaster.radyotvonline.net/show/playlist.m3u8 
+
+RADYO VIVA
+#EXTINF:0 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/a/a4/Radyo-viva.png    " group-title=" ", radyo VİVA 
+https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
+
+KRAL FM 
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/a/a3/Kral_FM.jpg   " group-title=" ", Kral FM
+http://kralwmp.radyotvonline.com/;stream.mp3
+
+KRAL POP 
+#EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Kral_Pop_logosu.png/220px-Kral_Pop_logosu.png  " group-title=" ", Kral POP FM 
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+
+BEST FM 
+#EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/9/9b/Best_FM.png  " group-title=" ", Best FM 
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+
+NUMBER ONE TURK 
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/7/79/Numberonefm.gif/125px-Numberonefm.gif   " group-title=" ", Nummber ONE TÜRK 
+https://n10101m.mediatriple.net/numberoneturk
+
+SUPER FM 
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/f/ff/S%C3%BCper_FM_logo.png/120px-S%C3%BCper_FM_logo.png   " group-title=" ", Süper FM 
+https://25443.live.streamtheworld.com:443/SUPER_FM_SC?/;stream.mp3
+
+PAL FM 
+#EXTINF:0 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/0/0d/Pal_FM.png/150px-Pal_FM.png    " group-title=" ", PAL FM 
+http://shoutcast.radyogrup.com:1030/stream/1;/;stream.mp3
+
+RADYO D 
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/b/b1/Radyo_D.png   " group-title=" ", radyo D 
+https://radyo.duhnet.tv/radyod
+
+RADYO 45
+#EXTINF:0 tvg-logo="  https://canliradyo-dinle.com/wp-content/uploads/2021/11/Radyo-45-%E2%80%98lik-dinle.jpg   " group-title=" ", radyo 45'lik 
+https://stream.radyo45lik.com:4545/stream
+
+POP 90 
+#EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/3/3c/Radyo_Pop_logosu.jpg/150px-Radyo_Pop_logosu.jpg  " group-title=" ", POP 90 
+https://22353.live.streamtheworld.com:443/POP90.mp3
+
+RADYO 7 
+#EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/3/30/Radyo7logo.png/200px-Radyo7logo.png  " group-title=" ", radyo 7 
+http://46.20.3.251/stream/169/
+
+RADYO 7 TURKU 
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/3/30/Radyo7logo.png/200px-Radyo7logo.png    " group-title=" ", radyo 7 Türkü 
+https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8?listeningSessionID=6284dc8229808b37_438308_iQ98jYQM__00000008m7E&downloadSessionID=0
+
+RADYO 7
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/3/30/Radyo7logo.png/200px-Radyo7logo.png    " group-title=" ", radyo 7 SANAT 
+https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8
+
+CNN TÜRK 
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/d/d5/Cnnturkradyo.jpg/220px-Cnnturkradyo.jpg    " group-title=" ", CNN TURK
+https://radyo.duhnet.tv/ak_dtvh_cnnturk?/
+
+SLOW TURK 
+#EXTINF:0 tvg-logo="  https://canliradyo-dinle.com/wp-content/uploads/2021/10/Slow-Turk-dinle.png   " group-title=" ", Slow TÜRK 
+https://radyo.duhnet.tv/slowturk?/;stream.mp3/;stream.mp3
+
+SHOW RADYO 
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg    " group-title=" ", SHOW radyo 
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+
+NTV RADYO 
+#EXTINF:0 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title=" ", NTV radyo 
+https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
+
+NTV RADYO 
+#EXTINF:0 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title=" ", NTV SPOR 
+https://ssldyg.radyotvonline.com/smil/smil:ntvspor.smil/chunklist_w1613490002_b128000.m3u8
+
+RADYO SPOR 
+#EXTINF:0 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/0/07/Radyospor-logo.PNG/250px-Radyospor-logo.PNG   " group-title=" ", radyo SPOR 
+https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+
+#EXTINF:0 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/a/ac/Lig_Radyo_logo.png/200px-Lig_Radyo_logo.png    " group-title=" ", LIG RADYO 
+https://ligradyo.radyotvonline.net/ligradyo 
+
+RADYO SEYMEN 
+#EXTINF:0 tvg-logo="  https://www.radyoseymen.com.tr/wp-content/uploads/2021/09/radyoseymen1a.png   " group-title=" ", radyo SEYMEN 
+https://yayin.radyoseymen.com.tr:1070/stream
+
+AKRA FM 
+#EXTINF:0 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/5/55/Akrafmlogo.jpg/220px-Akrafmlogo.jpg  " group-title=" ", AKRA FM 
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8
+
+BABA RADYO 
+#EXTINF:0 tvg-logo=" https://cdn-radiotime-logos.tunein.com/s120272g.png   " group-title=" ", baba radyo 
+https://s29.canli-radyo.biz/best/babaradyo.stream/chunklist_w2141732565.m3u8 
+
+
