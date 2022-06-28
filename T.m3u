@@ -9,6 +9,7 @@ http://46.31.146.187:44300/play/a024/index.m3u8
 
 TRT 2 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title=" ",TRT 2  
+http://167.114.115.233:8080/trt2fhd/index.m3u8 
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8 
 http://195.189.60.227:9091/play/a026 
 
