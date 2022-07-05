@@ -164,6 +164,12 @@ KANAL 7 AVRUPA
 EXTINF:-1,KANAL 7 AVRUPA HD
 http://46.31.146.187:44300/play/a002/index.m3u8 
 
+
+TEVE 2 
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title=" ",teve2 
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8 
+
+
 TV8 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title=" ",TV8
 http://213.183.47.50:2085/play/a00v/index.m3u8 
