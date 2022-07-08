@@ -87,7 +87,7 @@ https://arteliveext.akamaized.net/hls/live/2030993-b/artelive_de/master_v720.m3u
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8 
 
 KIKA  
-#EXTINF:1 tvg-id=" KIKA.de " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
+EXTINF:1 tvg-id=" KIKA.de " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title=" ",KIKA 
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master-1080p-5128.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master-720p-3328.m3u8
 
@@ -127,16 +127,12 @@ http://213.183.47.50:2085/play/a09o/index.m3u8
 Sat 1 
 #EXTINF:-1 tvg-id="   Sat1Germany.de   " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/1280px-Neues_Sat._1_Logo_transparent.png  " group-title=" ",SAT 1 
 http://185.234.217.21:8005/play/a024/index.m3u8 
-http://212.18.115.193:3549/play/a00d/index.m3u8
+
 
 
 SAT 1 GOLD
 #EXTINF:-1 tvg-id="     Sat1GoldGermany.de      " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
-http://212.18.115.193:3549/play/a00x/index.m3u8 
-
-SAT 1 GOLD HD
-EXTINF:-1 tvg-id="   Sat1GoldGermany.de     " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD HD 
-http://212.18.115.193:3549/play/a00y/index.m3u8 
+ 
 
 NITRO 
 #EXTINF:-1 tvg-id="     NitroGermany.de      " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ",NITRO
