@@ -151,6 +151,7 @@ http://212.18.115.193:3549/play/a00m/index.m3u8
 
 Kabel Eins 
 #EXTINF:-1 tvg-id="       kabeleins.de           " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/500px-Kabel_eins_Logo_2015.svg.png " group-title=" ",KABEL EINS
+http://154.58.202.35:8003/play/a0b3/index.m3u8 
 http://212.18.115.193:3549/play/a00i/index.m3u8 
 http://185.236.229.229:8000/play/a01y 
 http://212.18.115.193:3549/play/a00j/index.m3u8 
