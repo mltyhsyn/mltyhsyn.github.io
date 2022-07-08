@@ -126,6 +126,7 @@ http://213.183.47.50:2085/play/a09o/index.m3u8
 
 Sat 1 
 #EXTINF:-1 tvg-id="   Sat1Germany.de   " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/1280px-Neues_Sat._1_Logo_transparent.png  " group-title=" ",SAT 1 
+http://185.234.217.21:8005/play/a024/index.m3u8 
 http://212.18.115.193:3549/play/a00d/index.m3u8
 
 
@@ -134,7 +135,7 @@ SAT 1 GOLD
 http://212.18.115.193:3549/play/a00x/index.m3u8 
 
 SAT 1 GOLD HD
-#EXTINF:-1 tvg-id="   Sat1GoldGermany.de     " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD HD 
+EXTINF:-1 tvg-id="   Sat1GoldGermany.de     " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD HD 
 http://212.18.115.193:3549/play/a00y/index.m3u8 
 
 NITRO 
@@ -174,14 +175,17 @@ http://212.18.115.193:3549/play/a00h/index.m3u8
 
 Pro7 MAXX 
 #EXTINF:-1 tvg-id="     ProSiebenMaxxGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/500px-ProSieben_MAXX_Logo.svg.png " group-title=" ",Pro7 MAXX
+http://185.234.217.21:8005/play/a028/index.m3u8 
 http://212.18.115.193:3549/play/a010/index.m3u8 
 
 RTL 2 
 #EXTINF:-1 tvg-id="   RTLZweiGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/500px-RTLZWEI_Logo_2019.svg.png  " group-title=" ",RTL II 
+http://185.234.217.21:8001/play/a027/index.m3u8 
 http://212.18.115.193:3549/play/a00b/index.m3u8 
 
 RTL 
 #EXTINF:-1 tvg-id="   RTLGermany.de     " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/500px-RTL_Logo_2021.svg.png " group-title=" ",RTL 
+http://185.234.217.21:8001/play/a024/index.m3u8 
 http://212.18.115.193:3549/play/a009/index.m3u8 
 
 Nitro (rtl)
@@ -190,6 +194,7 @@ http://212.18.115.193:3549/play/a00o/index.m3u8
 
 SIXX 
 #EXTINF:-1 tvg-id="    SixxGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/500px-Sixx_Logo.svg.png  " group-title=" ",SIXX 
+http://185.234.217.21:8005/play/a027/index.m3u8 
 http://212.18.115.193:3549/play/a00f/index.m3u8 
 
 
