@@ -2,7 +2,7 @@
  
 
 TRT 1 trt 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title=" ",TRT 1 
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title=" ",TRT 1 HD  
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8 
 
 TRT 1
@@ -12,7 +12,7 @@ https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 
 
 TRT 2 trt
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title=" ",TRT 2  
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title=" ",TRT 2 HD 
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8 
 
 TRT 2 
@@ -28,7 +28,7 @@ http://77.247.109.214:8008/a/willene/live/3108800308.ts?n=1&b=5&vavoo_auth=eyJkY
 
 
 TRT TÜRK trt
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title=" ",TRT TÜRK 
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title=" ",TRT TÜRK HD 
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8  
 
 TRT TÜRK 
@@ -39,7 +39,7 @@ https://mn-nl.mncdn.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
 
 
 TRT HABER trt 
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" group-title=" ",TRT HABER 
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" group-title=" ",TRT HABER HD 
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8  
 
 TRT HABER 
@@ -48,7 +48,7 @@ https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
  
 
 TRT ÇOCUK trt
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png" group-title=" ",TRT ÇOCUK 
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png" group-title=" ",TRT ÇOCUK HD 
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8    
 
 TRT ÇOCUK 
@@ -59,7 +59,7 @@ https://mn-nl.mncdn.com/blutv_trtcocuk_dvr/live_720p2000000kbps/index.m3u8
 
 
 TRT MÜZİK trt 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/032bc15f-bc31-44c2-9049-27a0ddc0ecd0.png" group-title=" ",TRT MÜZİK 
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/032bc15f-bc31-44c2-9049-27a0ddc0ecd0.png" group-title=" ",TRT MÜZİK HD 
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8 
 
 TRT MÜZİK 
@@ -69,7 +69,7 @@ https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
 
 
 TRT BELGESEL trt 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png" group-title=" ",TRT BELGESEL 
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png" group-title=" ",TRT BELGESEL HD 
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8 
 
 TRT BELGESEL 
@@ -78,7 +78,7 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 
 
 TRT AVAZ 
-#EXTINF:-1 tvg-id="TRTavaz.tr" tvg-language="Turkish" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/9/97/TRT_Avaz_logo_%282009-2020%29.png       " group-title=" ",TRT AVAZ 
+#EXTINF:-1 tvg-id="TRTavaz.tr" tvg-language="Turkish" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/9/97/TRT_Avaz_logo_%282009-2020%29.png       " group-title=" ",TRT AVAZ HD 
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
 
@@ -101,18 +101,18 @@ http://185.53.88.85:8008/a/willene/live/3978407612.ts?n=1&b=5&vavoo_auth=eyJkYXR
 
 
 TRT SPOR 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5bab51c5-0efb-49a8-9dc0-8f3fdd85eec8.png" group-title=" ",TRT SPOR 
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5bab51c5-0efb-49a8-9dc0-8f3fdd85eec8.png" group-title=" ",TRT SPOR HD 
 https://mn-nl.mncdn.com/blutv_trtspor2/live_720p2000000kbps/index.m3u8 
 http://46.31.146.187:44300/play/a026/index.m3u8 
 
 TRT SPOR YILDIZ 
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/06ce3106-3fdb-4703-bc19-51ace99098a4.png" group-title=" ",TRT SPOR YILDIZ 
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/06ce3106-3fdb-4703-bc19-51ace99098a4.png" group-title=" ",TRT SPOR YILDIZ HD 
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8 
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8 
  
 
 A SPOR 
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/07d2ecfd-cddf-47c7-8e77-d16a7dab72f6.png" group-title=" ",A Spor 
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/07d2ecfd-cddf-47c7-8e77-d16a7dab72f6.png" group-title=" ",A Spor HD 
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8 
 http://46.31.146.187:44300/play/a01u/index.m3u8
 
@@ -149,7 +149,7 @@ A2
 http://213.183.47.50:2085/play/a00t/index.m3u8
 
 FOX TV 
-#EXTINF:-1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title=" ",Fox 
+#EXTINF:-1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title=" ",Fox HD 
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8   
 http://46.31.146.187:44300/play/a00x/index.m3u8 
 
@@ -160,7 +160,7 @@ http://213.183.47.50:2085/play/aa002/index.m3u8
 
 
 SHOW TV 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title=" ",Show 
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title=" ",Show HD 
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8  
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8  
 http://46.31.146.187:44300/play/a01m/index.m3u8 
@@ -181,7 +181,7 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 http://46.31.146.187:44300/play/a03x/index.m3u8 
 
 STAR TV 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title=" ",Star 
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title=" ",Star HD 
 https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8  
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8  
 http://46.31.146.187:44300/play/a02k/index.m3u8 
@@ -191,7 +191,7 @@ STAR TV
 http://213.183.47.50:2085/play/a00s/index.m3u8 
 
 KANAL D 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title=" ",Kanal D 
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title=" ",Kanal D HD 
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8 
 https://kanald.blutv.com/blutv_kanald_live/live.m3u8  
 http://46.31.146.187:44300/play/a01k/index.m3u8 
@@ -202,7 +202,7 @@ http://213.183.47.50:2085/play/aa001/index.m3u8
 
 
 KANAL 7 
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title=" ",Kanal 7 
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title=" ",Kanal 7 HD 
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
 KANAL 7 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title=" ",Kanal 7 
@@ -216,7 +216,7 @@ http://46.31.146.187:44300/play/a002/index.m3u8
 
 
 TEVE 2 
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title=" ",teve2 
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title=" ",teve2 HD 
 https://teve2.blutv.com/blutv_teve2_live/live_720p2000000kbps/index.m3u8 
 TEVE 2 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title=" ",teve2 
