@@ -132,7 +132,7 @@ http://185.234.217.21:8005/play/a024/index.m3u8
 
 SAT 1 GOLD
 #EXTINF:-1 tvg-id="     Sat1GoldGermany.de      " tvg-language="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png" group-title=" ", SAT 1 GOLD 
- 
+http://212.18.115.193:3549/play/a00y/index.m3u8 
 
 NITRO 
 #EXTINF:-1 tvg-id="     NitroGermany.de      " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png  " group-title=" ",NITRO
