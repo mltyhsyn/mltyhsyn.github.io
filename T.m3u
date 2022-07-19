@@ -13,6 +13,7 @@ https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 
 TRT 2 trt
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title=" ",TRT 2  
+http://195.155.98.170:5858/play/a09p 
 http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8 
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8 
 
@@ -192,6 +193,7 @@ http://46.31.146.187:44300/play/a03x/index.m3u8
 
 STAR TV 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title=" ",Star  
+http://195.155.98.170:5858/play/a09z 
 http://213.183.47.50:2085/play/a00s/index.m3u8  
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8  
 http://46.31.146.187:44300/play/a02k/index.m3u8 
