@@ -102,6 +102,13 @@ https://kanald.blutv.com/blutv_kanald_live/live.m3u8
 #EXTINF:-1,KANAL D HD 
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
+#EXTINF:-1,ATV 
+http://46.29.169.27:8000/play/a01m 
+#EXTINF:-1,SHOW 
+http://46.29.169.27:8000/play/a002 
+#EXTINF:-1,KANAL D 
+http://46.29.169.27:8000/play/a00h 
+
 #EXTINF:-1,KANAL 7 
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8 
 #EXTINF:-1,KANAL 7 HD 
