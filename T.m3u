@@ -163,11 +163,11 @@ https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:-1,DİYANET TV 
 https://mn-nl.mncdn.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8 
 
-#EXTINF:1,BEYAZ TV MÜZİK 
+#EXTINF:1,TV BEYAZ MÜZİK 
 https://beyazmedyatv.yayin.com.tr/beyazmedya-muzik/video.m3u8
-#EXTINF:1,BEYAZ TV SİNEMA 
+#EXTINF:1,TV BEYAZ SİNEMA 
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:1,BEYAZ TV YEŞİLÇAM 
+#EXTINF:1,TV BEYAZ YEŞİLÇAM 
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 
 EXTINF:-1,MELTEM TV 
