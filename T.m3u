@@ -182,6 +182,10 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
 #EXTINF:-1,POWER TÜRK AKUSTİK 
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1,POWER TÜRK TAPTAZE 
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8 
+#EXTINF:-1,POWER TÜRK EN İYİLER 
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b2628000_sltur.m3u8
 
 EXTINF:-1,MELTEM TV 
 http://46.31.146.187:44300/play/a003/index.m3u8 
