@@ -193,6 +193,9 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltu
 #EXTINF:-1,POWER TÜRK EN İYİLER 
 https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b2628000_sltur.m3u8
 
+#EXTINF:-1,AKTUEL MÜZİK 
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8 
+
 EXTINF:-1,MELTEM TV 
 http://46.31.146.187:44300/play/a003/index.m3u8 
 
