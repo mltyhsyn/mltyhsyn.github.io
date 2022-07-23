@@ -214,7 +214,7 @@ https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b2628000_sl
 #EXTINF:-1,AKTUEL MÜZİK 
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8 
 
-#EXTINF:-1,MİLYON TV 
+EXTINF:-1,MİLYON TV 
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8 
 
 EXTINF:-1,MELTEM TV 
@@ -223,19 +223,11 @@ http://46.31.146.187:44300/play/a003/index.m3u8
 #EXTINF:-1,TV TÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8 
 
-#EXTINF:-1,TV AVRUPA 
-http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8 
-
-#EXTINF:-1,TV AVRUPA MÜZİK 
-http://aktif2830.ozelip.com:30124/avrupa/avrupa/playlist.m3u8 
- 
- 
-
 #EXTINF:-1,NTN SİNEMA 
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8 
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8 
 https://tv.ntnhd.com:3588/multi_web/play.m3u8 
-#EXTINF:-1,NTN BELGESEL 
+EXTINF:-1,NTN BELGESEL 
 https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8 
 https://tv.ntnhd.com:3189/multi_web/play_720.m3u8 
 https://tv.ntnhd.com:3189/multi_web/play.m3u8 
