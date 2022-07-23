@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:-1,TRT 1 
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8 
+https://mn-nl.mncdn.com/blutv_trt12/live.m3u8  
 #EXTINF:-1,TRT 1 HD  
-https://mn-nl.mncdn.com/blutv_trt12/live.m3u8 
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8 
 
 #EXTINF:-1,TRT 2  
 http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8 
@@ -20,9 +20,9 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1,TRT HABER 
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8  
+https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8  
 #EXTINF:-1,TRT HABER HD 
-https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
  
 #EXTINF:-1,TRT ÇOCUK 
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8    
@@ -34,10 +34,10 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT MÜZİK HD 
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1,TRT BELGESEL 
-https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8 
-#EXTINF:-1,TRT BELGESEL HD 
+#EXTINF:-1,TRT BELGESEL
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8 
+#EXTINF:-1,TRT BELGESEL HD 
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1,TRT AVAZ HD 
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
@@ -105,6 +105,7 @@ https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,KANAL D  
 https://kanald.blutv.com/blutv_kanald_live/live.m3u8 
 #EXTINF:-1,KANAL D HD 
+https://mn-nl.mncdn.com/blutv_kanald2/live_720p2000000kbps/index.m3u8 
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8  
 
 EXTINF:-1,KANAL 7 
@@ -146,6 +147,7 @@ https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8 
 
 #EXTINF:-1,TV 100
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8 
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8 
 
 #EXTINF:-1,BEYAZ TV 
