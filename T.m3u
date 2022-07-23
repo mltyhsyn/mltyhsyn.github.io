@@ -109,10 +109,13 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1,KANAL D  
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8 
 https://kanald.blutv.com/blutv_kanald_live/live.m3u8 
 #EXTINF:-1,KANAL D HD 
 https://mn-nl.mncdn.com/blutv_kanald2/live_720p2000000kbps/index.m3u8 
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8  
+https://kanald.blutv.com/blutv_kanald_live/live.m3u8 
+https://kanalddvr.blutv.com/blutv_kanald_dvr2/live.m3u8 
 
 EXTINF:-1,KANAL 7 
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8 
@@ -192,6 +195,8 @@ https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
 #EXTINF:-1,KRAL POP 
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8 
 
+#EXTINF:-1,POWER TÜRK 
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8 
 #EXTINF:-1,POWER TÜRK AKUSTİK 
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:-1,POWER TÜRK TAPTAZE 
@@ -201,6 +206,9 @@ https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b2628000_sl
 
 #EXTINF:-1,AKTUEL MÜZİK 
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8 
+
+#EXTINF:-1,MİLYON TV 
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8 
 
 EXTINF:-1,MELTEM TV 
 http://46.31.146.187:44300/play/a003/index.m3u8 
@@ -213,6 +221,15 @@ http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist
 
 #EXTINF:-1,TV AVRUPA MÜZİK 
 http://aktif2830.ozelip.com:30124/avrupa/avrupa/playlist.m3u8 
+
+#EXTINF:-1,NTN SİNEMA 
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8 
+https://tv.ntnhd.com:3588/multi_web/play_720.m3u8 
+https://tv.ntnhd.com:3588/multi_web/play.m3u8 
+#EXTINF:-1,NTN BELGESEL 
+https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8 
+https://tv.ntnhd.com:3189/multi_web/play_720.m3u8 
+https://tv.ntnhd.com:3189/multi_web/play.m3u8 
 
 #EXTINF:-1,BEIN MOVIES STARS 
 http://185.53.88.85:8008/a/willene/live/491247067.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61 
