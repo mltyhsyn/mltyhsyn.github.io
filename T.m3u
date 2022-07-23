@@ -196,7 +196,8 @@ https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b2628000_sl
 EXTINF:-1,MELTEM TV 
 http://46.31.146.187:44300/play/a003/index.m3u8 
 
-
+#EXTINF:-1,TV TÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8 
 
 
 
