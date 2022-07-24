@@ -22,7 +22,7 @@ Disney Channel
 #EXTINF:-1,Disney Channel 
 http://45.92.69.155:9091/play/a00p 
 Disney Channel 
-#EXTINF:-1 tvg-id="   DisneyChannelGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL HD 
+EXTINF:-1 tvg-id="   DisneyChannelGermany.de    " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1280px-Disney_Channel_logo_%282014%29.svg.png   " group-title=" ",DISNEY CHANNEL HD 
 http://185.53.88.67:8008/a/willene/live/2891322044.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
 
@@ -31,7 +31,7 @@ Nickelodeon
 EXTINF:-1 tvg-id="   NickGermany.de     " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png  " group-title=" ",Nickelodeon
  
 Nickelodeon
-#EXTINF:-1 tvg-id="   NickGermany.de     " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png  " group-title=" ",Nickelodeon HD 
+EXTINF:-1 tvg-id="   NickGermany.de     " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1280px-Nick.svg.png  " group-title=" ",Nickelodeon HD 
 http://185.53.88.67:8008/a/willene/live/4037814765.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
 
@@ -40,7 +40,7 @@ Nicktoons
 EXTINF:-1 tvg-id="           " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/Nicktoons_Logo.svg/1280px-Nicktoons_Logo.svg.png  " group-title=" ",Nicktoons 
  
 Nicktoons
-#EXTINF:-1 tvg-id="           " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/Nicktoons_Logo.svg/1280px-Nicktoons_Logo.svg.png  " group-title=" ",Nicktoons HD 
+EXTINF:-1 tvg-id="           " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/Nicktoons_Logo.svg/1280px-Nicktoons_Logo.svg.png  " group-title=" ",Nicktoons HD 
 http://185.53.88.67:8008/a/willene/live/1839173255.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
 
@@ -50,7 +50,7 @@ SUPER RTL
 #EXTINF:-1 tvg-id="       SuperRTLGermany.de    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/1280px-Super_RTL_Logo_orange_2019.svg.png    " group-title=" ",SUPER RTL 
 http://45.92.69.155:9091/play/a01e 
 SUPER RTL 
-#EXTINF:-1 tvg-id="       SuperRTLGermany.de    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/1280px-Super_RTL_Logo_orange_2019.svg.png    " group-title=" ",SUPER RTL HD 
+EXTINF:-1 tvg-id="       SuperRTLGermany.de    " tvg-language="Deutsch" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/1280px-Super_RTL_Logo_orange_2019.svg.png    " group-title=" ",SUPER RTL HD 
 http://185.53.88.67:8008/a/willene/live/1036109227.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
 
@@ -59,7 +59,7 @@ Toggo +
 #EXTINF:-1 tvg-id="   ToggoPlus.de       " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/500px-ToggoPlus_Logo_2019.svg.png   " group-title=" ",TOGGO+
 http://103.161.34.64:8002/play/a02m 
 Toggo +
-#EXTINF:-1 tvg-id="   ToggoPlus.de       " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/500px-ToggoPlus_Logo_2019.svg.png   " group-title=" ",TOGGO+ HD 
+EXTINF:-1 tvg-id="   ToggoPlus.de       " tvg-language="Deutsch" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/500px-ToggoPlus_Logo_2019.svg.png   " group-title=" ",TOGGO+ HD 
 http://185.53.88.67:8008/a/willene/live/3716089626.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
 
@@ -68,17 +68,17 @@ Cartoon Network
 #EXTINF:-1 tvg-id="   CartoonNetworkGermany.de      " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png  " group-title=" ",Cartoon Network 
 http://103.161.34.64:8002/play/a036
 Cartoon Network
-#EXTINF:-1 tvg-id="   CartoonNetworkGermany.de      " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png  " group-title=" ",Cartoon Network HD 
+EXTINF:-1 tvg-id="   CartoonNetworkGermany.de      " tvg-language="Deutsch" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png  " group-title=" ",Cartoon Network HD 
 http://185.53.88.67:8008/a/willene/live/1656902520.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
 
 
 
 BOOMERANG 
-#EXTINF:-1 tvg-id="    BoomerangGermany.de      " tvg-language="Deutsch" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1280px-Boomerang_2014_logo.svg.png            " group-title=" ",Boomerang 
+EXTINF:-1 tvg-id="    BoomerangGermany.de      " tvg-language="Deutsch" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1280px-Boomerang_2014_logo.svg.png            " group-title=" ",Boomerang 
 http://185.53.88.67:8008/a/willene/live/1242944025.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 BOOMERANG 
-#EXTINF:-1 tvg-id="    BoomerangGermany.de      " tvg-language="Deutsch" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1280px-Boomerang_2014_logo.svg.png            " group-title=" ",Boomerang HD 
+EXTINF:-1 tvg-id="    BoomerangGermany.de      " tvg-language="Deutsch" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1280px-Boomerang_2014_logo.svg.png            " group-title=" ",Boomerang HD 
 http://185.53.88.85:8008/a/willene/live/1930473838.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
 
